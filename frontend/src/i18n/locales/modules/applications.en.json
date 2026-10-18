@@ -1,0 +1,104 @@
+{
+  "applications": {
+    "nav": "My applications",
+    "title": "My applications",
+    "intro": "Keep track of the opportunities you want to apply for. This is only your own record. We do not apply for you.",
+    "empty": "You have not saved any opportunity yet.",
+    "findOpportunities": "Find opportunities",
+    "list": {
+      "confirmed": "Confirmed: {{status}}",
+      "open": "Open"
+    },
+    "back": "Back to my applications",
+    "officialSite": "Open the official website (apply there)",
+    "trackingOnly": "This page is only your own record. To apply, you must use the official website.",
+    "progress": {
+      "title": "My progress",
+      "help": "Move forward as you complete each step. This is what you tell us. It is not proof that anything was sent.",
+      "withdrawnNote": "You have stopped this application. You can save it again.",
+      "done": "Done",
+      "now": "You are here",
+      "later": "Next"
+    },
+    "status": {
+      "saved": "Saved",
+      "preparing": "Preparing",
+      "documents_ready": "Documents ready",
+      "applied": "I have applied",
+      "withdrawn": "Stopped"
+    },
+    "statusHelp": {
+      "saved": "You saved this opportunity.",
+      "preparing": "You are getting things ready.",
+      "documents_ready": "All the documents on the list are ticked.",
+      "applied": "You say you applied on the official website."
+    },
+    "move": {
+      "saved": "Go back to saved",
+      "preparing": "I am preparing",
+      "documents_ready": "My documents are ready",
+      "applied": "I have applied",
+      "withdrawn": "Stop this application"
+    },
+    "docs": {
+      "title": "Documents checklist",
+      "none": "No documents are listed for this opportunity."
+    },
+    "external": {
+      "heading": "What the provider did",
+      "title": "Status with the provider",
+      "confirmedTag": "Confirmed",
+      "confirmedBy": "Confirmed by {{source}}",
+      "note": "Note: {{note}}",
+      "notConfirmed": "Not confirmed yet",
+      "youSaid": "You said: {{status}} (not confirmed)",
+      "studentSaid": "The student said: {{status}} (not confirmed)",
+      "nothingYet": "Nobody has confirmed anything with the provider yet.",
+      "unknown": "Unknown",
+      "submitted": "Application received",
+      "under_review": "Under review",
+      "accepted": "Accepted",
+      "rejected": "Not selected"
+    },
+    "source": {
+      "student_reported": "the student",
+      "facilitator_confirmed": "a teacher",
+      "provider_confirmed": "the provider"
+    },
+    "report": {
+      "title": "Tell us what happened",
+      "needApplied": "You can use this after you mark the application as \"I have applied\".",
+      "locked": "This status is already confirmed, so it cannot be changed here.",
+      "label": "What happened with your application?",
+      "hint": "What you tell us is saved as your own words. It stays \"not confirmed\" until a teacher or the provider confirms it.",
+      "send": "Save what I told"
+    },
+    "reportOption": {
+      "submitted": "The provider received my application",
+      "under_review": "It is under review",
+      "accepted": "I was accepted",
+      "rejected": "I was not selected",
+      "unknown": "I do not know"
+    },
+    "code": {
+      "title": "Your reference code",
+      "give": "Give this code to the provider so they can confirm your status.",
+      "copy": "Copy the code",
+      "copied": "Code copied.",
+      "copyFailed": "Could not copy. Please write the code down."
+    },
+    "help": {
+      "title": "Ask a teacher for help",
+      "intro": "Tell your teacher what you need help with for this application.",
+      "message": "Your message (optional)",
+      "send": "Ask for help",
+      "sent": "Your request was sent."
+    },
+    "save": {
+      "button": "Save to my applications",
+      "hint": "This only saves it for you to keep track. It does not apply for you.",
+      "done": "Saved.",
+      "open": "Open my application"
+    }
+  }
+}

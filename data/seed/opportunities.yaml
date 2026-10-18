@@ -1,0 +1,193 @@
+# Hand-curated opportunities. Rules (enforced by the loader):
+#  - amounts, deadlines, eligibility, documents and state scope may appear only when listed in
+#    verification.verified_fields, with evidence;
+#  - every URL is https and on the source's official domain;
+#  - verification here was done by an automated agent, so human_reviewed stays false until a
+#    person re-checks the official page.
+- slug: diksha-portal
+  source: diksha
+  kind: platform
+  title: {en: DIKSHA learning platform, ta: தீக்ஷா கற்றல் தளம்}
+  summary:
+    en: Government of India platform for school education learning content. See the official site for what is available.
+    ta: பள்ளிக் கல்விக்கான கற்றல் உள்ளடக்கத்துக்கான இந்திய அரசின் தளம். என்ன கிடைக்கிறது என்பதை அதிகாரபூர்வ தளத்தில் பாருங்கள்.
+  provider: Government of India
+  url: https://diksha.gov.in
+  keywords: [school, lessons, textbooks, learning, class, students, teachers]
+  verification:
+    status: verified
+    verified_fields: [url, provider, existence]
+    verified_at: 2026-10-18
+    verified_by: claude-code-agent (automated check)
+    evidence:
+      - {url: "https://diksha.gov.in", note: "Official portal reachable on 2026-10-18; page title 'DIKSHA - Digital Infrastructure for Knowledge Sharing'."}
+
+- slug: swayam-portal
+  source: swayam
+  kind: platform
+  title: {en: SWAYAM online courses, ta: ஸ்வயம் இணையவழிப் படிப்புகள்}
+  summary:
+    en: Government of India portal that lists online courses. See the official site for current courses, dates and certificates.
+    ta: இணையவழிப் படிப்புகளைப் பட்டியலிடும் இந்திய அரசின் தளம். தற்போதைய படிப்புகள், தேதிகள், சான்றிதழ்களை அதிகாரபூர்வ தளத்தில் பாருங்கள்.
+  provider: Government of India
+  url: https://swayam.gov.in
+  keywords: [online, course, mooc, free, learning, college, certificate]
+  verification:
+    status: verified
+    verified_fields: [url, provider, existence]
+    verified_at: 2026-10-18
+    verified_by: claude-code-agent (automated check)
+    evidence:
+      - {url: "https://swayam.gov.in", note: "Official portal reachable on 2026-10-18; page title 'Swayam Central'."}
+
+- slug: skill-india-digital-hub-portal
+  source: skill-india-digital-hub
+  kind: platform
+  title: {en: Skill India Digital Hub, ta: ஸ்கில் இந்தியா டிஜிட்டல் ஹப்}
+  summary:
+    en: Government of India skilling portal. See the official site for available courses and training.
+    ta: இந்திய அரசின் திறன் மேம்பாட்டுத் தளம். கிடைக்கும் படிப்புகள், பயிற்சிகளை அதிகாரபூர்வ தளத்தில் பாருங்கள்.
+  provider: Government of India
+  url: https://www.skillindiadigital.gov.in
+  keywords: [skill, training, vocational, course, employability]
+  verification:
+    status: verified
+    verified_fields: [url, provider, existence]
+    verified_at: 2026-10-18
+    verified_by: claude-code-agent (automated check)
+    evidence:
+      - {url: "https://www.skillindiadigital.gov.in", note: "Official portal reachable on 2026-10-18; page title 'Skill India Digital Hub (SIDH)'."}
+
+- slug: apprenticeship-india-portal
+  source: apprenticeship-india
+  kind: platform
+  title: {en: Apprenticeship India portal, ta: அப்ரென்டிஸ்ஷிப் இந்தியா இணையதளம்}
+  summary:
+    en: Government of India portal for apprenticeship training. See the official site for opportunities and how to apply.
+    ta: அப்ரென்டிஸ் பயிற்சிக்கான இந்திய அரசின் இணையதளம். வாய்ப்புகளையும் விண்ணப்பிக்கும் முறையையும் அதிகாரபூர்வ தளத்தில் பாருங்கள்.
+  provider: Government of India
+  url: https://www.apprenticeshipindia.gov.in
+  keywords: [apprenticeship, apprentice, training, industry, stipend, naps]
+  verification:
+    status: verified
+    verified_fields: [url, provider, existence]
+    verified_at: 2026-10-18
+    verified_by: claude-code-agent (automated check)
+    evidence:
+      - {url: "https://www.apprenticeshipindia.gov.in", note: "Official portal reachable on 2026-10-18; page title 'Apprenticeship Training Portal | Govt. of India'."}
+
+- slug: naps-stipend-support
+  source: apprenticeship-india
+  kind: scheme
+  title:
+    en: National Apprenticeship Promotion Scheme (NAPS) stipend support
+    ta: தேசிய அப்ரென்டிஸ் ஊக்குவிப்புத் திட்டம் (NAPS) உதவித்தொகை ஆதரவு
+  summary:
+    en: Apprenticeship training under the Apprentices Act, 1961, where the Government of India supports part of the apprentice's stipend.
+    ta: 1961 அப்ரென்டிஸ் சட்டத்தின் கீழான பயிற்சியில், அப்ரென்டிஸின் உதவித்தொகையின் ஒரு பகுதியை இந்திய அரசு ஆதரிக்கிறது.
+  provider: Ministry of Skill Development and Entrepreneurship
+  url: https://www.apprenticeshipindia.gov.in
+  keywords: [apprenticeship, naps, stipend, apprentice, training, industry]
+  benefits:
+    - text:
+        en: "The Government share of the stipend under NAPS is limited to 25% of the prescribed minimum stipend, up to a maximum of Rs. 1,500 per month per apprentice, paid by Direct Benefit Transfer to apprentices engaged under the Apprentices Act, 1961."
+        ta: "NAPS-இன் கீழ் அரசின் பங்கு, நிர்ணயிக்கப்பட்ட குறைந்தபட்ச உதவித்தொகையின் 25% ஆகும்; ஒரு அப்ரென்டிஸுக்கு மாதம் அதிகபட்சம் ரூ. 1,500 வரை, 1961 அப்ரென்டிஸ் சட்டத்தின் கீழ் ஈடுபடுத்தப்பட்டவர்களுக்கு நேரடிப் பயன் பரிமாற்றம் மூலம் வழங்கப்படும்."
+      amount_inr: 1500
+      period: month
+  verification:
+    status: verified
+    verified_fields: [url, provider, benefit]
+    verified_at: 2026-10-18
+    verified_by: claude-code-agent (automated check)
+    evidence:
+      - {url: "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226495&reg=48&lang=2", note: "PIB release dated 11 Feb 2026, Ministry of Skill Development and Entrepreneurship: government share limited to 25% of prescribed minimum stipend, up to Rs. 1,500 per month per apprentice. Amount can change; check the official page."}
+
+- slug: national-scholarship-portal
+  source: national-scholarship-portal
+  kind: platform
+  title: {en: National Scholarship Portal, ta: தேசிய உதவித்தொகை இணையதளம்}
+  summary:
+    en: Government of India portal where students apply for scholarships and check their application status. Each scheme has its own rules; check the scheme page.
+    ta: மாணவர்கள் உதவித்தொகைக்கு விண்ணப்பித்து நிலையைப் பார்க்கும் இந்திய அரசின் தளம். ஒவ்வொரு திட்டத்துக்கும் தனி விதிகள் உண்டு; திட்டப் பக்கத்தைப் பாருங்கள்.
+  provider: Government of India
+  url: https://scholarships.gov.in
+  keywords: [scholarship, financial aid, student, apply, status, nsp]
+  verification:
+    status: verified
+    verified_fields: [url, provider, existence]
+    verified_at: 2026-10-18
+    verified_by: claude-code-agent (automated check)
+    evidence:
+      - {url: "https://scholarships.gov.in", note: "Official portal reachable on 2026-10-18; page title 'NSP : National Scholarship Portal'; describes itself as a Government of India site."}
+
+- slug: nmmss-scholarship
+  source: national-scholarship-portal
+  kind: scholarship
+  title:
+    en: National Means-cum-Merit Scholarship Scheme (NMMSS)
+    ta: தேசிய வருமானம்-தகுதி உதவித்தொகைத் திட்டம் (NMMSS)
+  summary:
+    en: A scholarship for students in Government, Government-aided or local body schools, applied for on the National Scholarship Portal. Check the official guidelines for current amounts, classes and dates.
+    ta: அரசு, அரசு உதவிபெறும் அல்லது உள்ளாட்சிப் பள்ளி மாணவர்களுக்கான உதவித்தொகை; தேசிய உதவித்தொகை இணையதளத்தில் விண்ணப்பிக்க வேண்டும். தற்போதைய தொகை, வகுப்புகள், தேதிகளுக்கு அதிகாரபூர்வ வழிகாட்டுதல்களைப் பாருங்கள்.
+  provider: Ministry of Education
+  url: https://scholarships.gov.in
+  keywords: [scholarship, merit, means, income, school, students, nmmss]
+  eligibility:
+    max_family_income_inr_per_year: 350000
+    other_criteria:
+      - {en: "Studies in a Government, Government-aided or local body school.", ta: "அரசு, அரசு உதவிபெறும் அல்லது உள்ளாட்சிப் பள்ளியில் படிப்பவர்."}
+      - {en: "Scored at least 55% (or equivalent grade) in the Class VII examination, relaxable by 5% for SC/ST students.", ta: "VII வகுப்புத் தேர்வில் குறைந்தது 55% (அல்லது இணையான தரம்) பெற்றிருக்க வேண்டும்; SC/ST மாணவர்களுக்கு 5% தளர்வு."}
+    text:
+      en: "Students of any community studying in Government, Government-aided or local body schools. Parental income from all sources must be not more than Rs. 3,50,000 per annum. Students must have scored a minimum of 55% marks or equivalent grade in the Class VII examination to appear in the selection test (relaxable by 5% for SC/ST students)."
+      ta: "எந்தச் சமூகத்தைச் சேர்ந்த மாணவரும், அரசு, அரசு உதவிபெறும் அல்லது உள்ளாட்சிப் பள்ளியில் படிப்பவராக இருக்க வேண்டும். பெற்றோரின் அனைத்து வருமானமும் ஆண்டுக்கு ரூ. 3,50,000-க்கு மிகாமல் இருக்க வேண்டும். தேர்வுக்குத் தோன்ற, VII வகுப்புத் தேர்வில் குறைந்தது 55% மதிப்பெண் அல்லது அதற்கு இணையான தரம் தேவை (SC/ST மாணவர்களுக்கு 5% தளர்வு)."
+  required_documents:
+    - Income certificate of parent or guardian issued by the competent authority in the State or UT
+    - Caste certificate
+  verification:
+    status: verified
+    verified_fields: [url, provider, eligibility, documents]
+    verified_at: 2026-10-18
+    verified_by: claude-code-agent (automated check)
+    evidence:
+      - {url: "https://scholarships.gov.in/public/schemeGuidelines/NMMSS_FAQ.pdf", note: "Official NMMSS FAQ (Q1 eligibility; Q4 documents given to the school or institute for verification of the online application). The FAQ does not state classes covered or the scholarship amount, so neither is recorded."}
+
+- slug: ncs-portal
+  source: ncs
+  kind: platform
+  title: {en: National Career Service portal, ta: தேசிய தொழில் சேவை இணையதளம்}
+  summary:
+    en: Government of India career services portal. See the official site for what it offers.
+    ta: இந்திய அரசின் தொழில் சேவை இணையதளம். அது என்ன வழங்குகிறது என்பதை அதிகாரபூர்வ தளத்தில் பாருங்கள்.
+  provider: Government of India
+  url: https://ncs.gov.in
+  keywords: [career, jobs, employment, counselling, ncs]
+  verification:
+    status: verified
+    verified_fields: [url, provider, existence]
+    verified_at: 2026-10-18
+    verified_by: claude-code-agent (automated check)
+    evidence:
+      - {url: "https://ncs.gov.in", note: "Official portal reachable on 2026-10-18; the page names the National Career Service and describes itself as a Government of India site."}
+
+- slug: tn-skill-development-portal
+  source: tn-skill-development
+  kind: platform
+  title:
+    en: Tamil Nadu Skill Development Corporation skilling portal (Naan Mudhalvan)
+    ta: தமிழ்நாடு திறன் மேம்பாட்டுக் கழகத் தளம் (நான் முதல்வன்)
+  summary:
+    en: Tamil Nadu government portal for skilling programmes offered to registered students and colleges. The older Naan Mudhalvan web address redirects here. See the official site for current courses.
+    ta: பதிவு செய்த மாணவர்களுக்கும் கல்லூரிகளுக்கும் வழங்கப்படும் திறன் திட்டங்களுக்கான தமிழ்நாடு அரசின் தளம். பழைய நான் முதல்வன் முகவரி இங்கே திருப்பிவிடும். தற்போதைய படிப்புகளை அதிகாரபூர்வ தளத்தில் பாருங்கள்.
+  provider: Government of Tamil Nadu
+  url: https://skilldevelopment.tn.gov.in
+  keywords: [tamil nadu, naan mudhalvan, skill, free courses, students, colleges, tnskill]
+  scope:
+    level: state
+    states: [Tamil Nadu]
+  verification:
+    status: verified
+    verified_fields: [url, provider, existence, scope]
+    verified_at: 2026-10-18
+    verified_by: claude-code-agent (automated check)
+    evidence:
+      - {url: "https://skilldevelopment.tn.gov.in", note: "Page header 'Government of Tamil Nadu', Tamil Nadu Skill Development Corporation; lists skills offered to registered students through TNSkill. https://naanmudhalvan.tn.gov.in redirected here on 2026-10-18."}

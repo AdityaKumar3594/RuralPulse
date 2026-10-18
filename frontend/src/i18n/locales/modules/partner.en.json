@@ -1,0 +1,194 @@
+{
+  "partner": {
+    "nav": "Partner",
+    "title": "Partner",
+    "sections": "Partner sections",
+    "loading": "Loading...",
+    "retry": "Try again",
+    "saving": "Saving...",
+    "tabs": {
+      "provider": "My organisation",
+      "submissions": "Opportunities",
+      "applications": "Applications"
+    },
+    "provider": {
+      "title": "My organisation",
+      "none": "Tell us about your organisation. You can submit opportunities after an administrator approves it.",
+      "name": "Organisation name",
+      "nameInvalid": "Enter at least 2 letters.",
+      "kind": "Type of organisation",
+      "kinds": {
+        "ngo": "NGO",
+        "employer": "Employer",
+        "training_provider": "Training provider",
+        "mentor": "Mentor",
+        "government": "Government"
+      },
+      "website": "Website",
+      "websiteHint": "Must start with https://",
+      "description": "About your organisation (optional)",
+      "create": "Save organisation",
+      "save": "Save changes",
+      "saved": "Saved.",
+      "status": {
+        "pending": "Waiting for approval",
+        "approved": "Approved",
+        "suspended": "Suspended"
+      },
+      "explain": {
+        "pending": "You can submit opportunities after an administrator approves your organisation.",
+        "approved": "Your organisation is approved. You can submit opportunities.",
+        "suspended": "Your organisation is suspended. Please contact an administrator."
+      }
+    },
+    "status": {
+      "draft": "Draft",
+      "submitted": "Waiting for review",
+      "changes_requested": "Changes requested",
+      "approved": "Approved and published",
+      "rejected": "Rejected",
+      "withdrawn": "Withdrawn"
+    },
+    "kinds": {
+      "platform": "Platform",
+      "course": "Course",
+      "scholarship": "Scholarship",
+      "scheme": "Scheme",
+      "apprenticeship": "Apprenticeship",
+      "internship": "Internship",
+      "exam": "Exam",
+      "training_program": "Training programme",
+      "mentorship": "Mentorship",
+      "job": "Job"
+    },
+    "stages": {
+      "class_9": "Class 9",
+      "class_10": "Class 10",
+      "class_11": "Class 11",
+      "class_12": "Class 12",
+      "iti_or_diploma": "ITI or diploma",
+      "undergraduate": "Undergraduate",
+      "graduate": "Graduate",
+      "not_in_school": "Not in school"
+    },
+    "sub": {
+      "title": "My opportunities",
+      "new": "Add an opportunity",
+      "empty": "You have not added any opportunities yet.",
+      "updated": "Updated {{date}}",
+      "reviewNotes": "Reviewer's notes",
+      "slug": "Published as",
+      "edit": "Edit",
+      "submit": "Submit for review",
+      "withdraw": "Withdraw",
+      "revise": "Revise",
+      "confirmWithdraw": "Withdraw this opportunity? If it is published, students will no longer see it.",
+      "done": {
+        "submit": "Submitted for review.",
+        "withdraw": "Withdrawn.",
+        "revise": "A new draft was created from the published version. The live version stays until the new one is approved."
+      }
+    },
+    "form": {
+      "newTitle": "New opportunity",
+      "editTitle": "Edit opportunity",
+      "back": "Back to the list",
+      "readOnly": "This opportunity cannot be edited in its current state.",
+      "claimsNote": "Anything you enter about eligibility, benefits, deadlines, documents or location is a CLAIM. It is only shown to students as fact if an administrator verifies it with evidence.",
+      "basics": "Basics",
+      "kind": "Type",
+      "titleEn": "Title (English, required)",
+      "titleTa": "Title (Tamil, optional)",
+      "summaryEn": "Summary (English, required)",
+      "summaryTa": "Summary (Tamil, optional)",
+      "url": "Web address",
+      "urlHint": "A page on your own website. Must start with https://",
+      "keywords": "Keywords",
+      "keywordsHint": "Separate with commas.",
+      "scope": "Where it applies",
+      "scopeLevel": "Area",
+      "national": "All of India",
+      "state": "Only some states",
+      "states": "States",
+      "statesHint": "Separate with commas.",
+      "eligibility": "Who can apply",
+      "stagesHint": "Education stages (tick all that apply).",
+      "minAge": "Minimum age",
+      "maxAge": "Maximum age",
+      "income": "Maximum family income per year (Rs)",
+      "eligText": "Eligibility in your own words",
+      "documentsDates": "Documents and dates",
+      "documents": "Required documents",
+      "documentsHint": "One document per line.",
+      "deadline": "Application deadline",
+      "expires": "Listing expiry date",
+      "benefits": "Benefits",
+      "benefitText": "Benefit {{n}}: description",
+      "benefitAmount": "Benefit {{n}}: amount in Rs (optional)",
+      "benefitPeriod": "Benefit {{n}}: how often",
+      "periodNone": "Not stated",
+      "periods": {
+        "month": "Every month",
+        "year": "Every year",
+        "one_time": "One time"
+      },
+      "addBenefit": "Add a benefit",
+      "removeBenefit": "Remove benefit {{n}}",
+      "saveDraft": "Save draft",
+      "saved": "Draft saved.",
+      "errors": {
+        "titleRequired": "Enter a title in English.",
+        "summaryRequired": "Enter a summary in English.",
+        "urlHttps": "The web address must start with https://",
+        "statesRequired": "Enter at least one state.",
+        "numberInvalid": "Use whole numbers, 0 or more."
+      }
+    },
+    "apps": {
+      "confirmTitle": "Confirm an application",
+      "confirmHint": "Enter the reference code the student gave you. You will not see who the student is.",
+      "code": "Student reference code",
+      "codeHint": "8 characters.",
+      "codeInvalid": "The code must be 8 characters.",
+      "status": "What happened to the application",
+      "note": "Note (optional)",
+      "confirm": "Confirm status",
+      "confirmed": "Recorded for {{opportunity}}: {{status}}.",
+      "statsTitle": "Application counts",
+      "statsHint": "Enter the slug of a published opportunity to see counts only.",
+      "slug": "Opportunity slug",
+      "slugRequired": "Enter the opportunity slug.",
+      "showStats": "Show counts",
+      "byExternal": "By status confirmed by organisations",
+      "byInternal": "By status the students reported",
+      "noCounts": "No applications yet."
+    },
+    "external": {
+      "unknown": "Unknown",
+      "submitted": "Received",
+      "under_review": "Under review",
+      "accepted": "Accepted",
+      "rejected": "Rejected"
+    },
+    "internal": {
+      "saved": "Saved",
+      "preparing": "Preparing",
+      "documents_ready": "Documents ready",
+      "applied": "Applied",
+      "withdrawn": "Withdrawn"
+    },
+    "errors": {
+      "already_has_provider": "Your account already has an organisation.",
+      "identity_locked_after_approval": "The name, type and website cannot be changed after approval. You can still edit the description.",
+      "provider_not_approved": "You can submit opportunities after an administrator approves your organisation.",
+      "not_editable": "This opportunity cannot be edited now.",
+      "url_must_be_https": "The web address must start with https://",
+      "url_must_be_on_provider_website": "The opportunity's web address must be on your organisation's own website.",
+      "already_closed": "This opportunity is already closed.",
+      "only_published_can_be_revised": "Only a published opportunity can be revised.",
+      "not_allowed": "Your organisation is not allowed to do this yet. It must be approved and linked to a source.",
+      "not_found": "Not found. Check the code or name and try again.",
+      "submission_failed_validation": "Something in this opportunity is not valid. Please check it."
+    }
+  }
+}

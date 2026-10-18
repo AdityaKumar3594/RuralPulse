@@ -1,0 +1,86 @@
+{
+  "recommend": {
+    "nav": "Suggestions",
+    "title": "Careers to look at",
+    "intro": "These suggestions use only the words you told us. They are ideas to explore, not decisions.",
+    "loading": "Finding careers that fit the words you told us…",
+    "notesTitle": "Please remember",
+    "note": {
+      "points_are_keyword_evidence_not_a_probability": "A match shows words in common. It is not a chance of success.",
+      "interest_is_not_ability": "Liking something does not measure what you can do.",
+      "eligibility_is_checked_separately": "Whether you can apply for something is checked separately."
+    },
+    "insufficient": {
+      "title": "We need to know a little more about you",
+      "body": "We do not have enough to suggest careers that match you yet. You can still explore the careers below."
+    },
+    "missingTitle": "What would help us",
+    "field": {
+      "goals": "What you want to do later",
+      "interests": "What you enjoy",
+      "skills": "What you can do",
+      "education_stage": "Your class or course",
+      "subject_preferences": "Subjects you like"
+    },
+    "answerQuestions": "Answer questions",
+    "noMatches": {
+      "title": "We found no careers that match",
+      "body": "The catalog may not cover what you told us. That does not mean your idea is not good."
+    },
+    "unmatchedTitle": "Words we could not find in the catalog",
+    "unmatched": "{{field}}: {{text}}",
+    "matchesTitle": "Matches",
+    "matchesIntro": "These careers use some of the words you told us.",
+    "exploreTitle": "Explore something different",
+    "exploreIntro": "We show these to widen your options. They are shown for variety, not because they match what you told us.",
+    "exploreBadge": "To explore",
+    "level": {
+      "strong": "Strong match",
+      "moderate": "Moderate match",
+      "weak": "Weak match"
+    },
+    "levelNote": "The match label only counts words in common. It is not a chance of success.",
+    "reasonsTitle": "Why this career",
+    "reasonReported": "You told us \"{{term}}\" ({{field}}). This career lists \"{{text}}\" ({{careerField}}).",
+    "reasonObserved": "A teacher or helper saw \"{{term}}\" ({{field}}). This career lists \"{{text}}\" ({{careerField}}).",
+    "careerField": {
+      "keywords": "keywords",
+      "title": "title",
+      "skills": "skills",
+      "activities": "activities",
+      "description": "description"
+    },
+    "termField": {
+      "goals": "what you want to do",
+      "interests": "interests",
+      "skills": "skills",
+      "subject_preferences": "subjects you like"
+    },
+    "stageTitle": "Usual starting point",
+    "stage": {
+      "meets": "This career usually starts after {{min}}. You told us you are at {{student}}.",
+      "below": "This career usually starts after {{min}}. You told us you are at {{student}}. This is for your information. You can still read about it and plan.",
+      "unknown": "This career usually starts after {{min}}. We do not know your class or course yet.",
+      "not_required": "No usual starting class or course is listed."
+    },
+    "unknownsTitle": "What we do not know",
+    "unknown": {
+      "career_cost_unknown": "We do not know what this costs.",
+      "career_time_needed_unknown": "We do not know how long this takes.",
+      "career_location_not_considered": "We did not look at where you live.",
+      "student_skills_not_told": "You have not told us your skills.",
+      "student_interests_not_told": "You have not told us what you enjoy."
+    },
+    "sourcesTitle": "Where to learn more",
+    "noSources": "No linked sources for this career.",
+    "nextTitle": "What you can do next",
+    "action": {
+      "view_career": "Read about this career",
+      "plan_prerequisite": "See how to reach {{stage}}",
+      "tell_us": "Tell us your class or course",
+      "open_route": "Read about: {{route}}"
+    },
+    "buildPathway": "Build my pathway",
+    "rerun": "Show suggestions again"
+  }
+}

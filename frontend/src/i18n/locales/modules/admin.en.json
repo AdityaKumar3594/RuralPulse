@@ -1,0 +1,199 @@
+{
+  "admin": {
+    "nav": "Admin",
+    "title": "Administration",
+    "sections": "Admin sections",
+    "loading": "Loading...",
+    "retry": "Try again",
+    "saving": "Saving...",
+    "tabs": {
+      "users": "People",
+      "assignments": "Assignments",
+      "providers": "Organisations",
+      "review": "Review queue",
+      "opportunities": "Opportunity tools"
+    },
+    "roles": {
+      "student": "Student",
+      "facilitator": "Facilitator",
+      "partner": "Partner",
+      "admin": "Administrator"
+    },
+    "users": {
+      "listTitle": "People",
+      "filter": "Show role",
+      "all": "All",
+      "empty": "No people found.",
+      "inactive": "inactive",
+      "createTitle": "Add a facilitator or partner",
+      "createHint": "Administrators are created from the command line, not here.",
+      "role": "Role",
+      "name": "Full name",
+      "nameInvalid": "Enter a name.",
+      "phone": "Phone number",
+      "phoneHint": "10 digits, starting with 6, 7, 8 or 9.",
+      "phoneInvalid": "Enter a 10-digit number starting with 6, 7, 8 or 9.",
+      "pin": "PIN",
+      "pinHint": "6 to 12 digits. Share it with the person safely.",
+      "pinInvalid": "The PIN must be 6 to 12 digits.",
+      "create": "Add person",
+      "created": "{{name}} was added."
+    },
+    "assign": {
+      "createTitle": "Assign a student to a facilitator",
+      "facilitator": "Facilitator",
+      "student": "Student",
+      "pick": "Choose...",
+      "choose": "Choose both a facilitator and a student.",
+      "create": "Assign",
+      "created": "The assignment was created.",
+      "listTitle": "Assignments",
+      "empty": "No assignments yet.",
+      "active": "Active since {{date}}",
+      "endedOn": "Ended on {{date}}",
+      "end": "End assignment",
+      "confirmEnd": "End this assignment? The facilitator will stop seeing this student.",
+      "ended": "The assignment was ended."
+    },
+    "providers": {
+      "title": "Organisations",
+      "filter": "Show status",
+      "empty": "No organisations found.",
+      "approve": "Approve",
+      "suspend": "Suspend",
+      "status": {
+        "pending": "Waiting for approval",
+        "approved": "Approved",
+        "suspended": "Suspended"
+      },
+      "kind": {
+        "ngo": "NGO",
+        "employer": "Employer",
+        "training_provider": "Training provider",
+        "mentor": "Mentor",
+        "government": "Government"
+      },
+      "done": {
+        "approve": "{{name}} was approved.",
+        "suspend": "{{name}} was suspended."
+      }
+    },
+    "submissionStatus": {
+      "submitted": "Waiting for review",
+      "changes_requested": "Changes requested",
+      "approved": "Approved",
+      "rejected": "Rejected",
+      "withdrawn": "Withdrawn",
+      "draft": "Draft"
+    },
+    "review": {
+      "title": "Review queue",
+      "filter": "Show status",
+      "empty": "Nothing here.",
+      "updated": "Updated {{date}}",
+      "open": "Open",
+      "back": "Back to the queue",
+      "detailTitle": "Review a submission",
+      "notFound": "This submission was not found in that list. It may already have been decided.",
+      "byProvider": "From {{name}}",
+      "replaces": "This replaces the published listing {{slug}}.",
+      "claimsNote": "Everything below was entered by the partner. It is a claim until you verify it."
+    },
+    "payload": {
+      "none": "Not given",
+      "kind": "Type",
+      "title": "Title",
+      "summary": "Summary",
+      "url": "Web address",
+      "keywords": "Keywords",
+      "scope": "Where it applies",
+      "scopeNational": "All of India",
+      "scopeState": "Only in: {{states}}",
+      "eligibility": "Eligibility",
+      "stages": "Education stages: {{v}}",
+      "minAge": "Minimum age: {{v}}",
+      "maxAge": "Maximum age: {{v}}",
+      "income": "Maximum family income per year: Rs {{v}}",
+      "benefits": "Benefits",
+      "deadline": "Application deadline",
+      "expires": "Listing expires on",
+      "documents": "Required documents"
+    },
+    "decision": {
+      "title": "Your decision",
+      "approve": "Approve",
+      "request_changes": "Ask for changes",
+      "reject": "Reject",
+      "notesOptional": "Notes for the partner (optional)",
+      "notesRequired": "Notes for the partner (required)",
+      "submit": "Save decision"
+    },
+    "verify": {
+      "title": "What have you verified?",
+      "warning": "Only the claims you tick are published to students as facts. Claims you leave unticked are removed from the published listing.",
+      "fields": {
+        "url": "The web address is correct",
+        "provider": "The provider is genuine",
+        "existence": "The opportunity exists",
+        "eligibility": "Eligibility rules",
+        "benefit": "Benefits",
+        "deadline": "Application deadline",
+        "documents": "Required documents",
+        "scope": "Where it applies (state)"
+      },
+      "evidenceTitle": "Evidence",
+      "evidenceHint": "Add at least one evidence page if you tick anything. It must be on the provider's own website or an official .gov.in or .nic.in site, and start with https.",
+      "evidenceUrl": "Evidence {{n}}: web address",
+      "evidenceNote": "Evidence {{n}}: what it shows",
+      "noteMissing": "Write a short note for each evidence page.",
+      "addEvidence": "Add another evidence page",
+      "removeEvidence": "Remove evidence {{n}}"
+    },
+    "result": {
+      "title": "Decision saved",
+      "decided": {
+        "approve": "The submission was approved.",
+        "request_changes": "Changes were requested from the partner.",
+        "reject": "The submission was rejected."
+      },
+      "status": "Submission status",
+      "slug": "Published slug",
+      "verification": "Verification status",
+      "stripped": "Claims removed because they were not verified",
+      "strippedHint": "These were not shown to students as facts.",
+      "tools": "Open opportunity tools"
+    },
+    "tools": {
+      "title": "Opportunity tools",
+      "intro": "Re-check a published opportunity, or take it down. Enter its slug.",
+      "slug": "Opportunity slug",
+      "slugRequired": "Enter the opportunity slug.",
+      "reverifyTitle": "Re-verify",
+      "reverifyHint": "Record that you re-checked the claims below against the official page today.",
+      "tickOne": "Tick at least one claim you re-checked.",
+      "reverify": "Record re-verification",
+      "reverified": "{{slug}} was re-verified.",
+      "withdrawTitle": "Withdraw",
+      "withdrawHint": "This removes the opportunity from what students see.",
+      "withdraw": "Withdraw opportunity",
+      "confirmWithdraw": "Withdraw {{slug}}? Students will no longer see it.",
+      "withdrawn": "{{slug}} was withdrawn."
+    },
+    "errors": {
+      "phone_already_registered": "That phone number is already registered.",
+      "already_assigned": "This student is already assigned to this facilitator.",
+      "invalid_assignment": "The assignment is not valid. Choose a facilitator and a student.",
+      "not_found": "That record was not found.",
+      "evidence_required": "Add at least one evidence page when you tick a claim.",
+      "cannot_verify_absent_claim": "You ticked \"{{field}}\", but the partner did not give that claim. Untick it.",
+      "evidence_must_be_official_or_on_provider_site": "Evidence must be on the provider's own website or an official .gov.in or .nic.in site.",
+      "evidence_must_be_official": "Evidence must be on an official .gov.in or .nic.in site or the provider's own website.",
+      "url_must_be_https": "Every web address must start with https://.",
+      "notes_required": "Notes are required when you ask for changes or reject.",
+      "not_awaiting_review": "This submission is not waiting for review.",
+      "provider_not_approved": "The organisation is not approved. Approve it first.",
+      "cannot_verify_new_claims": "You can only re-verify claims that were already verified.",
+      "submission_failed_validation": "The submission has problems and cannot be published. Ask the partner to fix it."
+    }
+  }
+}

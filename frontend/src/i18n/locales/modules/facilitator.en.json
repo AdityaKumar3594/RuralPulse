@@ -1,0 +1,192 @@
+{
+  "facilitator": {
+    "nav": "Students",
+    "title": "My students",
+    "intro": "Students who have shared their profile with you can be opened. Others are shown only with their name.",
+    "back": "Back to my students",
+    "students": {
+      "title": "Students assigned to me",
+      "none": "No students are assigned to you yet.",
+      "minor": "Under 18",
+      "shared": "Has shared their profile",
+      "notShared": "Has not shared their profile with you",
+      "openHelp": "Open help requests: {{count}}",
+      "open": "Open this student"
+    },
+    "help": {
+      "title": "Help requests",
+      "none": "No open help requests.",
+      "from": "From: {{name}}",
+      "about": "About: {{slug}}",
+      "resolve": "Mark as resolved",
+      "topics": {
+        "general": "General help",
+        "interview": "Help with the questions",
+        "pathway": "Help with a pathway",
+        "application": "Help with an application"
+      }
+    },
+    "tabs": {
+      "label": "Student sections",
+      "profile": "Profile",
+      "recs": "Suggestions",
+      "endorse": "Endorse",
+      "pathways": "Pathways",
+      "apps": "Applications"
+    },
+    "fields": {
+      "education_stage": "Class or course",
+      "subjects_studied": "Subjects studied",
+      "subject_preferences": "Subjects liked",
+      "interests": "Interests",
+      "skills": "Skills",
+      "goals": "Goals",
+      "weekly_learning_hours": "Hours per week for learning",
+      "device_type": "Device",
+      "connectivity": "Internet connection",
+      "state": "State",
+      "district": "District",
+      "annual_family_income_inr": "Family income per year (rupees)"
+    },
+    "enum": {
+      "education_stage": {
+        "class_9": "Class 9",
+        "class_10": "Class 10",
+        "class_11": "Class 11",
+        "class_12": "Class 12",
+        "iti_or_diploma": "ITI or diploma",
+        "undergraduate": "Undergraduate",
+        "graduate": "Graduate",
+        "not_in_school": "Not in school"
+      },
+      "device_type": {
+        "basic_phone": "Basic phone",
+        "smartphone": "Smartphone",
+        "shared_device": "Shared device",
+        "computer": "Computer"
+      },
+      "connectivity": {
+        "good": "Good",
+        "patchy": "Patchy",
+        "poor": "Poor"
+      }
+    },
+    "profile": {
+      "legend": "Each answer shows who it came from. \"Student said\" is the student's own word. \"Teacher saw\" and \"Teacher guess\" are added by teachers and never replace what the student said.",
+      "noEntries": "Nothing recorded yet.",
+      "unknownValue": "The student does not know",
+      "conflict": "The student's answer and a teacher's observation are different.",
+      "basis": "Basis: {{basis}}",
+      "prov": {
+        "reported": "Student said",
+        "observed": "Teacher saw",
+        "hypothesis": "Teacher guess",
+        "unknown": "Not known"
+      },
+      "verification": {
+        "unverified": "Not verified",
+        "verified": "Verified (proof seen)",
+        "disputed": "Disputed"
+      },
+      "state": {
+        "established": "Recorded",
+        "hypothesis_only": "Only a guess so far",
+        "unknown": "Not known yet"
+      },
+      "sourceTeacher": "a teacher",
+      "sourceAssisted": "student told a teacher",
+      "source": {
+        "label": "Source: {{source}}",
+        "student_form": "student's own form"
+      }
+    },
+    "form": {
+      "field": "Profile item",
+      "value": "Value",
+      "choose": "Choose…",
+      "hintList": "Separate several items with commas.",
+      "hintInt": "Enter a whole number from {{min}} to {{max}}.",
+      "errValue": "Please enter a valid value for this item.",
+      "errBasis": "Please say how you know this (at least 3 letters)."
+    },
+    "obs": {
+      "title": "Add an observation",
+      "intro": "Add something you saw or think. It is saved next to the student's own answers and does not replace them.",
+      "kind": "What is this?",
+      "observed": "I saw this",
+      "hypothesis": "This is my guess",
+      "basis": "How do you know? (required)",
+      "basisHint": "For example: saw the marksheet, or watched them solve problems.",
+      "verified": "I saw proof (for example a marksheet)",
+      "save": "Save observation",
+      "saved": "Observation saved."
+    },
+    "assisted": {
+      "title": "Record what the student told me",
+      "intro": "Use this when the student tells you an answer in person.",
+      "unknown": "The student does not know",
+      "save": "Save answer",
+      "saved": "Answer saved."
+    },
+    "recs": {
+      "intro": "Suggestions made for this student. Tell us if you agree. The match level counts matching words. It does not measure ability.",
+      "none": "No suggestions have been made for this student yet.",
+      "status": {
+        "ok": "No suggestions to show.",
+        "no_matches": "No matches were found.",
+        "insufficient_profile": "The profile does not have enough answers yet."
+      },
+      "level": {
+        "strong": "Strong match",
+        "moderate": "Some match",
+        "weak": "Weak match"
+      },
+      "explore": "Something to explore",
+      "reason": "\"{{term}}\" matches \"{{text}}\"",
+      "note": "Note (optional)",
+      "decision": {
+        "agree": "I agree",
+        "disagree": "I disagree",
+        "needs_discussion": "Needs discussion"
+      },
+      "saved": "Saved: {{decision}}"
+    },
+    "endorse": {
+      "intro": "Suggest an opportunity to this student. The student will see it and can choose what to do.",
+      "search": "Search for an opportunity",
+      "searchButton": "Search",
+      "noResults": "No opportunities found.",
+      "choose": "Choose one opportunity",
+      "note": "Note for the student (optional)",
+      "send": "Suggest to the student",
+      "sent": "Your suggestion was sent to the student.",
+      "errChoose": "Please choose an opportunity."
+    },
+    "pathways": {
+      "none": "This student has no pathways yet.",
+      "intro": "You can update a step for the student. The same order rules apply as for the student.",
+      "progress": "Steps done: {{done}} of {{total}}",
+      "setStatus": "Set step status",
+      "updated": "Step updated.",
+      "status": {
+        "not_started": "Not started",
+        "in_progress": "In progress",
+        "done": "Done"
+      }
+    },
+    "apps": {
+      "none": "This student has not saved any applications.",
+      "internal": "What the student says: {{status}}.",
+      "internalNote": "This is the student's own tracking, not proof.",
+      "code": "Reference code: {{code}}",
+      "confirmTitle": "Confirm what happened: {{name}}",
+      "warning": "Confirm only what you have seen evidence of, such as a message or letter from the provider. Do not confirm what the student only told you.",
+      "status": "Status you saw",
+      "note": "Note about the evidence (optional)",
+      "seenEvidence": "I have seen evidence of this status.",
+      "errSeen": "Please tick the box only if you have seen evidence.",
+      "confirm": "Confirm this status",
+      "confirmed": "Status confirmed."
+    }
+  }
+}

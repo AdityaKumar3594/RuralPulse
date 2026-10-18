@@ -1,0 +1,6 @@
+.DS_Store
+.env
+*.local
+# Hackathon brief documents are kept out of version control.
+*.pptx
+*.xlsx

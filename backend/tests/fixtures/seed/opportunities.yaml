@@ -1,0 +1,145 @@
+- slug: fresh-scholarship
+  source: test-portal
+  kind: scholarship
+  title: {en: Merit scholarship for students, ta: மாணவர்களுக்கான தகுதி உதவித்தொகை}
+  summary: {en: Scholarship for school students with family income limits., ta: குடும்ப வருமான வரம்புடன் பள்ளி மாணவர்களுக்கான உதவித்தொகை.}
+  provider: Test Ministry
+  url: https://portal.gov.in/merit
+  keywords: [scholarship, merit, money for study, உதவித்தொகை]
+  eligibility:
+    education_stages: [class_9, class_10]
+    max_family_income_inr_per_year: 100000
+  application_deadline: 2099-01-01
+  benefits:
+    - {text: {en: Up to the stated amount per year., ta: ஆண்டுக்கு குறிப்பிட்ட தொகை வரை.}, amount_inr: 12000, period: year}
+  verification:
+    status: verified
+    verified_fields: [url, provider, eligibility, benefit, deadline]
+    verified_at: 2026-10-18
+    verified_by: test-fixture
+    evidence: [{url: "https://portal.gov.in/merit/guidelines", note: fixture}]
+
+- slug: expired-apprenticeship
+  source: test-portal
+  kind: apprenticeship
+  title: {en: Old apprenticeship drive}
+  summary: {en: A drive whose deadline has passed.}
+  provider: Test Ministry
+  url: https://portal.gov.in/old
+  keywords: [apprenticeship]
+  application_deadline: 2020-01-01
+  verification:
+    status: verified
+    verified_fields: [url, deadline]
+    verified_at: 2019-12-01
+    verified_by: test-fixture
+    evidence: [{url: "https://portal.gov.in/old", note: fixture}]
+
+- slug: unverified-welding-course
+  source: test-portal
+  kind: course
+  title: {en: Welding short course}
+  summary: {en: A short welding course listed but not yet checked.}
+  provider: Some Trainer
+  url: https://portal.gov.in/welding
+  keywords: [welding, trade, course]
+
+- slug: tamil-nadu-skilling
+  source: test-portal
+  kind: training_program
+  title: {en: Tamil Nadu skilling programme, ta: தமிழ்நாடு திறன் திட்டம்}
+  summary: {en: Skilling programme for students in Tamil Nadu.}
+  provider: Government of Tamil Nadu
+  url: https://portal.gov.in/tn
+  keywords: [skill, tamil nadu]
+  scope: {level: state, states: [Tamil Nadu]}
+  verification:
+    status: verified
+    verified_fields: [url, provider, scope]
+    verified_at: 2026-10-18
+    verified_by: test-fixture
+    evidence: [{url: "https://portal.gov.in/tn", note: fixture}]
+
+- slug: kerala-only-programme
+  source: test-portal
+  kind: training_program
+  title: {en: Kerala skilling programme}
+  summary: {en: Skilling programme for students in Kerala.}
+  provider: Government of Kerala
+  url: https://portal.gov.in/kl
+  keywords: [skill, kerala]
+  scope: {level: state, states: [Kerala]}
+  verification:
+    status: verified
+    verified_fields: [url, scope]
+    verified_at: 2026-10-18
+    verified_by: test-fixture
+    evidence: [{url: "https://portal.gov.in/kl", note: fixture}]
+
+- slug: national-learning-platform
+  source: test-portal
+  kind: platform
+  title: {en: National learning platform}
+  summary: {en: Free lessons for school students.}
+  provider: Test Government
+  url: https://portal.gov.in/learn
+  keywords: [lessons, learning, school]
+  verification:
+    status: verified
+    verified_fields: [url, provider, existence]
+    verified_at: 2026-10-18
+    verified_by: test-fixture
+    evidence: [{url: "https://portal.gov.in/learn", note: fixture}]
+
+- slug: needs-review-scheme
+  source: test-portal
+  kind: scheme
+  title: {en: Income-limited scheme with school condition}
+  summary: {en: A scheme with an income limit and a condition the engine cannot check.}
+  provider: Test Ministry
+  url: https://portal.gov.in/needs-review
+  keywords: [scheme, income]
+  eligibility:
+    max_family_income_inr_per_year: 350000
+    other_criteria:
+      - {en: Studies in a government school.}
+  verification:
+    status: verified
+    verified_fields: [url, eligibility]
+    verified_at: 2026-10-18
+    verified_by: test-fixture
+    evidence: [{url: "https://portal.gov.in/needs-review", note: fixture}]
+
+- slug: age-limited-programme
+  source: test-portal
+  kind: training_program
+  title: {en: Youth programme for ages 14 to 18}
+  summary: {en: A programme with an age range.}
+  provider: Test Ministry
+  url: https://portal.gov.in/youth
+  keywords: [youth]
+  eligibility:
+    min_age: 14
+    max_age: 18
+  verification:
+    status: verified
+    verified_fields: [url, eligibility]
+    verified_at: 2026-10-18
+    verified_by: test-fixture
+    evidence: [{url: "https://portal.gov.in/youth", note: fixture}]
+
+- slug: document-scheme
+  source: test-portal
+  kind: scheme
+  title: {en: Scheme that needs documents}
+  summary: {en: A scheme with a document checklist.}
+  provider: Test Ministry
+  url: https://portal.gov.in/documents
+  keywords: [documents]
+  required_documents: [Income certificate, Photo ID]
+  verification:
+    status: verified
+    verified_fields: [url, documents]
+    verified_at: 2026-10-18
+    verified_by: test-fixture
+    evidence: [{url: "https://portal.gov.in/documents", note: fixture}]

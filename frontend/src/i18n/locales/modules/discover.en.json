@@ -1,0 +1,229 @@
+{
+  "discover": {
+    "nav": {
+      "search": "Search",
+      "careers": "Careers"
+    },
+    "freshness": {
+      "fresh": "Checked recently",
+      "stale": "Check is old",
+      "expired": "Expired",
+      "unverified": "Not checked yet"
+    },
+    "freshnessHelp": {
+      "fresh": "This record was checked against its source recently.",
+      "stale": "This record was checked a while ago. Details may have changed.",
+      "expired": "This record has expired or its deadline has passed.",
+      "unverified": "No one has checked this record against its source yet."
+    },
+    "verification": {
+      "verified": "Verified against its source",
+      "unverified": "Not verified yet",
+      "fields": "Checked details: {{fields}}",
+      "checkedOn": "Last checked on {{date}}",
+      "notReviewed": "Not yet re-checked by a person.",
+      "reviewed": "A person has re-checked this record."
+    },
+    "verifiedField": {
+      "url": "web address",
+      "provider": "provider",
+      "existence": "that it exists",
+      "eligibility": "who can apply",
+      "benefit": "benefits",
+      "deadline": "deadline",
+      "documents": "documents",
+      "scope": "where it applies"
+    },
+    "flags": {
+      "expired_or_deadline_passed": "Expired, or the deadline has passed.",
+      "needs_reverification": "Needs to be checked again against its source.",
+      "unverified": "Not checked against its source yet.",
+      "not_human_reviewed": "Not yet re-checked by a person.",
+      "eligibility_not_verified": "Who can apply has not been verified. Read the official page.",
+      "deadline_unknown": "We do not know the deadline.",
+      "deadline_not_verified": "The deadline has not been verified.",
+      "criteria_not_verified": "The rules for who can apply have not been verified.",
+      "catalog_entry_unverified": "This career entry is an unverified draft.",
+      "entry_requirements_are_typical_not_official": "Entry requirements are typical, not official.",
+      "based_on_self_reported_facts": "Based on what you told us, which has not been checked.",
+      "has_criteria_not_checked_by_engine": "The official page lists other rules we cannot check. Read them yourself."
+    },
+    "kind": {
+      "platform": "Learning platform",
+      "course": "Course",
+      "scholarship": "Scholarship",
+      "scheme": "Government scheme",
+      "apprenticeship": "Apprenticeship",
+      "internship": "Internship",
+      "exam": "Exam",
+      "training_program": "Training programme",
+      "mentorship": "Mentorship",
+      "job": "Job"
+    },
+    "family": {
+      "agriculture": "Farming and agriculture",
+      "skilled_trades": "Skilled trades",
+      "health_care": "Health care",
+      "education": "Teaching and education",
+      "creative_crafts": "Creative work and crafts",
+      "public_service": "Public service",
+      "business": "Business",
+      "technology": "Technology",
+      "hospitality": "Hospitality",
+      "transport_logistics": "Transport and delivery"
+    },
+    "stage": {
+      "class_9": "Class 9",
+      "class_10": "Class 10",
+      "class_11": "Class 11",
+      "class_12": "Class 12",
+      "iti_or_diploma": "ITI or diploma",
+      "undergraduate": "College (degree)",
+      "graduate": "Graduate",
+      "not_in_school": "Not in school"
+    },
+    "routeKind": {
+      "iti": "ITI",
+      "diploma": "Diploma",
+      "degree": "Degree",
+      "apprenticeship": "Apprenticeship",
+      "short_course": "Short course",
+      "on_the_job": "Learn on the job",
+      "self_learning": "Self learning",
+      "competitive_exam": "Competitive exam"
+    },
+    "type": {
+      "career": "Career",
+      "opportunity": "Opportunity"
+    },
+    "external": "opens another website",
+    "languageFallback": "This text is not available in your language yet.",
+    "backToSearch": "Back to search",
+    "backToCareers": "Back to careers",
+    "errors": {
+      "career_not_found": "We could not find this career.",
+      "opportunity_not_found": "We could not find this opportunity.",
+      "plan_not_found": "We could not find this pathway.",
+      "not_found": "We could not find that.",
+      "bad_reference": "That cannot be explained. Please go back and try again.",
+      "unknown_step": "We could not find this step."
+    },
+    "search": {
+      "title": "Search careers and opportunities",
+      "intro": "Search for a career, course, scholarship or scheme. Search looks for the words you type. It does not understand meaning.",
+      "queryLabel": "What are you looking for?",
+      "queryHint": "For example: electrician, scholarship, farming",
+      "typeLabel": "Show",
+      "typeAny": "Careers and opportunities",
+      "kindLabel": "Kind of opportunity",
+      "kindAny": "Any kind",
+      "stateLabel": "Your state",
+      "stateHint": "Optional. Shows records for your state and for all of India.",
+      "stageLabel": "Class or course",
+      "stageAny": "Any",
+      "submit": "Search",
+      "searching": "Searching…",
+      "idle": "Type a word or choose a filter, then press Search.",
+      "resultsTitle": "Results",
+      "resultsCount": "Results found: {{count}}",
+      "insufficient": "No approved record matches. Nothing is guessed.",
+      "partialOnly": "Only some of your words matched. Please read each result carefully.",
+      "matchTitle": "What the match labels mean",
+      "matchExplain": "Exact: every word you typed matched. Partial: only some words matched. Browse: you typed nothing, so results follow your filters.",
+      "match": {
+        "exact": "Exact match",
+        "partial": "Partial match",
+        "browse": "Browse"
+      },
+      "matchHelp": {
+        "exact": "Every word you typed matched.",
+        "partial": "Only some of your words matched.",
+        "browse": "Shown because of your filters, not your words."
+      },
+      "source": "Source: {{name}}",
+      "view": "View details",
+      "hasRules": "Has eligibility rules we can check.",
+      "untitled": "Untitled record"
+    },
+    "careers": {
+      "title": "Careers",
+      "intro": "Read about different kinds of work. Choose a group to see fewer careers.",
+      "familyLabel": "Group of careers",
+      "familyAll": "All groups",
+      "count": "Careers shown: {{count}}",
+      "empty": "No careers found in this group.",
+      "view": "Read about this career"
+    },
+    "career": {
+      "about": "About this work",
+      "activities": "What people in this work do",
+      "skills": "Skills that help",
+      "entryTitle": "How people usually get in",
+      "entryNotes": "Notes on entry",
+      "noNotes": "No entry notes are recorded yet.",
+      "minStage": "Usually starts after: {{stage}}",
+      "typicalNote": "These requirements are typical, not official. Ask the institution or check the official website before you decide.",
+      "draftNote": "This career entry is an unverified draft. A person has not checked it against official sources yet.",
+      "routesTitle": "Ways to get into this work",
+      "routeFrom": "Usually from: {{stage}}",
+      "routeLinked": "Linked opportunity",
+      "relatedTitle": "Related careers",
+      "resourcesTitle": "Places to learn",
+      "none": "Nothing listed."
+    },
+    "opp": {
+      "provider": "Provider: {{name}}",
+      "officialLink": "Go to the official website (this leaves Ruralpulse)",
+      "noLink": "No safe web address is available for this record.",
+      "sourceTitle": "Where this information came from",
+      "source": "{{name}} (published by {{publisher}})",
+      "checkTitle": "How well this is checked",
+      "datesTitle": "Dates",
+      "benefitsTitle": "Benefits",
+      "benefitAmount": "About ₹{{amount}}",
+      "period": {
+        "month": "every month",
+        "year": "every year",
+        "one_time": "one time"
+      },
+      "deadline": "Application deadline: {{date}}",
+      "expires": "This record is valid until: {{date}}",
+      "documentsTitle": "Documents listed",
+      "eligibilityTitle": "Who can apply (as published)",
+      "stages": "Class or course: {{stages}}",
+      "minAge": "Minimum age: {{age}}",
+      "maxAge": "Maximum age: {{age}}",
+      "income": "Family income: not more than ₹{{amount}} a year",
+      "other": "Other rules: {{rule}}",
+      "scopeState": "Only for these states: {{states}}",
+      "scopeNational": "Covers all of India.",
+      "canApplyTitle": "Can I apply?",
+      "canApplyIntro": "We can compare what you told us with the published rules.",
+      "noRules": "We hold no published rules for who can apply, so we cannot check this for you. Please read the official page.",
+      "notAvailableKind": "We cannot check eligibility for this kind of opportunity.",
+      "loginToCheck": "Log in to check if you can apply.",
+      "login": "Log in"
+    },
+    "explainPanel": {
+      "button": "Explain in simple words",
+      "loading": "Writing a simple explanation…",
+      "title": "In simple words",
+      "why": "Why",
+      "requirements": "What is needed",
+      "status": "Eligibility result",
+      "statusValue": {
+        "ELIGIBLE": "Meets the rules we could check",
+        "INELIGIBLE": "Does not meet a rule",
+        "UNKNOWN": "We cannot tell yet",
+        "NEEDS_REVIEW": "A person needs to check"
+      },
+      "freshness": "How recent is this",
+      "missing": "What we still need to know",
+      "next": "What to do next",
+      "sources": "Sources",
+      "sourceAi": "Written by AI from checked facts",
+      "sourceTemplate": "Standard wording",
+      "retry": "Try again"
+    }
+  }
+}

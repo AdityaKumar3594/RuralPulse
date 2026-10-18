@@ -1,0 +1,21 @@
+# Local development database. Application containers are added in Phase 8.
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: Ruralpulse
+      POSTGRES_PASSWORD: Ruralpulse  # local development only
+      POSTGRES_DB: Ruralpulse
+    ports:
+      - "127.0.0.1:5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./scripts/create-test-db.sql:/docker-entrypoint-initdb.d/create-test-db.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U Ruralpulse -d Ruralpulse"]
+      interval: 2s
+      timeout: 3s
+      retries: 15
+
+volumes:
+  pgdata:

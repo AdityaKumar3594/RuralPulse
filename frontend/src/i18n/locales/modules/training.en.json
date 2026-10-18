@@ -1,0 +1,80 @@
+{
+  "training": {
+    "nav": "Learn from teachers",
+    "navMine": "My modules",
+    "title": "Learn from teachers",
+    "intro": "Short learning modules made by teachers. Join one to see its lessons.",
+    "empty": "No modules are available right now.",
+    "enrolledTag": "You have joined",
+    "open": "See this module",
+    "back": "Back to all modules",
+    "language": {
+      "ta": "Tamil",
+      "en": "English"
+    },
+    "price": {
+      "free": "Free",
+      "per_module": "Price for this module",
+      "subscription": "Subscription price"
+    },
+    "join": {
+      "title": "Join this module",
+      "paidNotice": "This module is paid. Payment is not available in this prototype, so if you reserve it, it stays locked.",
+      "reserve": "Reserve this module",
+      "enroll": "Join for free"
+    },
+    "locked": {
+      "title": "This module is locked",
+      "noPayment": "This is a paid module. Payment is not available in this prototype, so the lessons stay locked.",
+      "generic": "You cannot see the lessons of this module yet."
+    },
+    "lessons": {
+      "title": "Lessons",
+      "progress": "Lessons done: {{done}} of {{total}}",
+      "link": "Open the extra link",
+      "markDone": "I finished this lesson",
+      "titlesOnly": "Lesson names only. The lessons open when you have access."
+    },
+    "mine": {
+      "title": "My modules",
+      "intro": "Create learning modules for students. Students can see a module only after you publish it.",
+      "create": "Create a new module",
+      "empty": "You have not made any modules yet.",
+      "status": {
+        "draft": "Draft",
+        "published": "Published",
+        "withdrawn": "Withdrawn"
+      },
+      "counts": "Students joined: {{enrolled}} · Lessons: {{lessons}}",
+      "edit": "Edit",
+      "publish": "Publish",
+      "withdraw": "Withdraw"
+    },
+    "form": {
+      "back": "Back to my modules",
+      "editTitle": "Edit module",
+      "createTitle": "Create a module",
+      "errTitle": "Enter a title with at least 3 letters.",
+      "errDescription": "Enter a description with at least 3 letters.",
+      "errPrice": "Enter a whole number from 1 to 100000.",
+      "errLessonTitle": "Enter a lesson title.",
+      "errUrl": "The link must start with https://",
+      "title": "Module title",
+      "description": "What students will learn",
+      "language": "Language of the module",
+      "priceType": "Price type",
+      "price": "Price in rupees",
+      "paidNotice": "Payment is not available in this prototype. Students cannot unlock a paid module yet.",
+      "lessons": "Lessons",
+      "noLessons": "No lessons yet. You need at least one lesson to publish.",
+      "lessonN": "Lesson {{n}}",
+      "lessonTitle": "Lesson title",
+      "lessonBody": "Lesson text",
+      "lessonUrl": "Extra link (optional)",
+      "lessonUrlHint": "Must start with https://",
+      "removeLesson": "Remove lesson {{n}}",
+      "addLesson": "Add a lesson",
+      "save": "Save module"
+    }
+  }
+}

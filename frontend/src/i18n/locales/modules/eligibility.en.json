@@ -1,0 +1,103 @@
+{
+  "eligibility": {
+    "pageTitle": "Can I apply?",
+    "pageIntro": "We compare what you told us with the published rules for this opportunity.",
+    "check": "Check if I can apply",
+    "checking": "Checking…",
+    "recheck": "Check again",
+    "rechecking": "Checking again with your new answer…",
+    "backToOpportunity": "Read about this opportunity",
+    "resultTitle": "Result",
+    "outcome": {
+      "ELIGIBLE": {
+        "title": "You meet the rules we could check",
+        "body": "Every rule we could check says you can apply. This is not a promise that you will get it. The provider decides."
+      },
+      "INELIGIBLE": {
+        "title": "You do not meet at least one rule",
+        "body": "Based on what you told us, at least one published rule is not met. See below which one."
+      },
+      "UNKNOWN": {
+        "title": "We cannot tell yet",
+        "body": "Nothing says you cannot apply, but we are missing information. Not knowing is not a \"no\"."
+      },
+      "NEEDS_REVIEW": {
+        "title": "A person needs to check this",
+        "body": "We could not settle this by ourselves. Please ask your teacher or the provider, and read the official page."
+      }
+    },
+    "reasonsTitle": "Why",
+    "reason": {
+      "expired": "This record has expired.",
+      "deadline_passed": "The application deadline has passed.",
+      "state_not_covered": "Your state is not covered.",
+      "education_stage_not_met": "Your class or course is not one of those listed.",
+      "age_below_minimum": "You are younger than the minimum age.",
+      "age_above_maximum": "You are older than the maximum age.",
+      "family_income_above_limit": "Your family income is above the limit.",
+      "conflicting_state": "You gave us different answers about your state.",
+      "conflicting_education_stage": "You gave us different answers about your class or course.",
+      "conflicting_annual_family_income_inr": "You gave us different answers about your family income.",
+      "conflicting_date_of_birth": "We hold different dates of birth for you.",
+      "missing_state": "We do not know your state.",
+      "missing_education_stage": "We do not know your class or course.",
+      "missing_annual_family_income_inr": "We do not know your family income.",
+      "missing_date_of_birth": "We do not know your date of birth.",
+      "criteria_not_verified": "The rules for who can apply have not been verified.",
+      "no_verified_criteria": "We hold no verified rules for who can apply.",
+      "other_criteria_need_review": "The official page lists other rules that a person must check.",
+      "record_stale": "This record was last checked a long time ago."
+    },
+    "checksTitle": "Rule by rule",
+    "rule": {
+      "expiry": "Record still valid",
+      "deadline": "Application deadline",
+      "state": "State",
+      "education_stage": "Class or course",
+      "age_min": "Minimum age",
+      "age_max": "Maximum age",
+      "family_income_max": "Family income"
+    },
+    "result": {
+      "pass": "Met",
+      "fail": "Not met",
+      "unknown": "Not known",
+      "conflict": "Answers differ"
+    },
+    "expected": "The rule says: {{value}}",
+    "actual": "Your answer: {{value}}",
+    "noActual": "Your answer: not known",
+    "basis": {
+      "reported": "you told us",
+      "observed": "a teacher or helper saw this"
+    },
+    "value": {
+      "validUntil": "valid until {{date}}",
+      "deadline": "apply by {{date}}",
+      "age": "{{limit}} years, counted on {{date}}",
+      "years": "{{age}} years",
+      "income": "₹{{amount}} a year or less",
+      "amount": "₹{{amount}}",
+      "conflict": "{{basis}}: {{value}}"
+    },
+    "missingTitle": "What we still need to know",
+    "missingIntro": "You can answer here and we will check again.",
+    "fact": {
+      "state": "Your state",
+      "education_stage": "Your class or course",
+      "annual_family_income_inr": "Your family income",
+      "date_of_birth": "Your date of birth"
+    },
+    "answerNow": "Answer now",
+    "answerFor": "Answer: {{fact}}",
+    "loadingQuestion": "Getting the question…",
+    "noQuestion": "We could not find the question for this. Please try the interview page.",
+    "cancel": "Cancel",
+    "setAtRegistration": "This was given when you registered. It cannot be changed here.",
+    "flagsTitle": "Please remember",
+    "version": "Rule version: {{version}}",
+    "checkedOn": "Checked on: {{date}}",
+    "separate": "Eligibility is separate from whether this suits you. Meeting the rules does not mean it is a good choice for you, and not meeting them does not mean you are not capable.",
+    "officialLink": "Go to the official website (this leaves Ruralpulse)"
+  }
+}

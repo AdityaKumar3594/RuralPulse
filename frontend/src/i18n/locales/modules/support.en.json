@@ -1,0 +1,79 @@
+{
+  "support": {
+    "nav": "My teacher",
+    "title": "My teacher",
+    "intro": "A teacher or facilitator can help you. You decide if they can see your profile.",
+    "err": {
+      "student_has_not_shared": "This student has not shared their profile with you.",
+      "not_found": "We could not find this. It may have been removed.",
+      "unknown_field": "That profile item does not exist.",
+      "invalid_value": "That value is not valid for this item. Please check it.",
+      "no_recommendations_yet": "No suggestions have been made for this student yet.",
+      "prerequisites_not_done": "Finish the earlier steps first.",
+      "dependent_steps_started": "Later steps have already been started, so this step cannot be changed.",
+      "unknown_step": "That step does not exist.",
+      "invalid_transition": "You cannot move to that status from where you are now.",
+      "documents_not_ready": "Tick all the documents first.",
+      "unknown_document": "That document is not on the list.",
+      "not_applied_yet": "You can tell us what happened only after you mark the application as applied.",
+      "already_confirmed": "This status is already confirmed, so it cannot be changed here.",
+      "free_module_has_no_price": "A free module cannot have a price.",
+      "price_required": "Please enter a price for this module.",
+      "needs_at_least_one_lesson": "Add at least one lesson before publishing.",
+      "payment_not_available": "Payment is not available yet, so this module is locked."
+    },
+    "share": {
+      "title": "Sharing my profile with my teacher",
+      "stateOn": "Sharing is ON",
+      "stateOff": "Sharing is OFF",
+      "explain": "If you turn sharing on, the teachers assigned to you can read your profile and your suggestions, and can help you with your pathway and applications.",
+      "point1": "If sharing is off, your teacher cannot see your profile.",
+      "point2": "You can turn it off again at any time.",
+      "point3": "Notes a teacher adds to your profile are marked as coming from the teacher.",
+      "turnOn": "Turn sharing on",
+      "turnOff": "Turn sharing off",
+      "nowOn": "Sharing is now on.",
+      "nowOff": "Sharing is now off.",
+      "guardianNeeded": "You are under 18, so a parent or guardian must agree. Enter their details.",
+      "guardianName": "Parent or guardian name",
+      "guardianPhone": "Parent or guardian mobile number",
+      "agreeSelf": "I agree that my teacher can see my profile.",
+      "agreeGuardian": "My parent or guardian agrees that my teacher can see my profile.",
+      "errName": "Please enter the parent or guardian's name.",
+      "errPhone": "Enter a 10-digit mobile number starting with 6, 7, 8 or 9.",
+      "errAgree": "Please tick the box to continue."
+    },
+    "teachers": {
+      "title": "Who is helping me",
+      "none": "No teacher is assigned to you yet.",
+      "since": "Assigned since {{date}}"
+    },
+    "endorse": {
+      "title": "Suggestions from my teachers",
+      "intro": "A teacher thinks these may be good for you. It is your choice.",
+      "none": "No suggestions from teachers yet.",
+      "note": "Teacher's note: {{note}}",
+      "markSeen": "Mark as seen",
+      "dismiss": "Dismiss",
+      "status": {
+        "suggested": "New",
+        "seen": "Seen",
+        "dismissed": "Dismissed"
+      }
+    },
+    "help": {
+      "title": "Ask for help",
+      "intro": "Send a message to your teacher.",
+      "topic": "What do you need help with?",
+      "message": "Your message (optional)",
+      "send": "Send request",
+      "sent": "Your request was sent.",
+      "topics": {
+        "general": "Something else",
+        "interview": "Answering the questions",
+        "pathway": "My pathway",
+        "application": "An application"
+      }
+    }
+  }
+}

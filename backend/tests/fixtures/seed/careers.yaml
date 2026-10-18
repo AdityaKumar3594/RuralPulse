@@ -1,0 +1,36 @@
+- slug: electrician
+  family: skilled_trades
+  title: {en: Electrician, ta: மின்பணியாளர்}
+  description: {en: Installs and repairs wiring and electrical equipment., ta: மின் இணைப்புகளையும் மின் சாதனங்களையும் பொருத்தி பழுது பார்ப்பவர்.}
+  activities: {en: [Install wiring, Repair faults], ta: [மின் இணைப்பு பொருத்துதல், பழுது நீக்குதல்]}
+  skills: {en: [Wiring, Safety], ta: [வயரிங், பாதுகாப்பு]}
+  entry: {typical_min_stage: class_10, notes: {en: Typically after Class 10. Not an official rule., ta: பொதுவாக 10ஆம் வகுப்புக்குப் பிறகு.}}
+  routes:
+    - {kind: iti, title: {en: ITI trade course, ta: ஐ.டி.ஐ பயிற்சி}, min_stage: class_10}
+    - {kind: self_learning, title: {en: Online lessons}, opportunity: national-learning-platform}
+  related: [tailor]
+  learning_resources: [national-learning-platform]
+  keywords: [wiring, fixing, மின்சாரம், electric]
+
+- slug: dairy-farmer
+  family: agriculture
+  title: {en: Dairy farmer, ta: பால் பண்ணையாளர்}
+  description: {en: Keeps cattle and sells milk., ta: மாடுகளை வளர்த்துப் பால் விற்பவர்.}
+  activities: {en: [Feed animals, Milk cattle], ta: [தீவனம் இடுதல், பால் கறத்தல்]}
+  skills: {en: [Animal care, Hygiene], ta: [விலங்கு பராமரிப்பு, சுகாதாரம்]}
+  entry: {typical_min_stage: null, notes: {en: Varies. No fixed qualification., ta: மாறுபடும்.}}
+  routes:
+    - {kind: on_the_job, title: {en: Learn on a farm, ta: பண்ணையில் கற்றல்}}
+  keywords: [farming, cow, milk, பால், விவசாயம்]
+
+- slug: tailor
+  family: creative_crafts
+  title: {en: Tailor}
+  description: {en: Stitches and alters clothes.}
+  activities: {en: [Measure, Stitch]}
+  skills: {en: [Stitching, Measuring]}
+  entry: {typical_min_stage: null, notes: {en: Varies.}}
+  routes:
+    - {kind: short_course, title: {en: Tailoring course}}
+  related: [electrician]
+  keywords: [stitching, clothes]

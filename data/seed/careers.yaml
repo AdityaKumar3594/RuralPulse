@@ -1,0 +1,783 @@
+# Career seed. Descriptions say what the work IS; no pay, counts or demand claims.
+# Entry stages and routes are typical paths, not official requirements. Tamil awaits native-speaker review.
+
+# ---------------- agriculture ----------------
+- slug: crop-farmer
+  family: agriculture
+  title: {en: Crop and organic farmer, ta: பயிர் மற்றும் இயற்கை விவசாயி}
+  description:
+    en: Grows crops such as grains, vegetables or fruits on farmland, either with usual methods or with organic methods. Plans the season, looks after the soil and plants, and sells the harvest.
+    ta: நெல், காய்கறி, பழம் போன்ற பயிர்களை நிலத்தில் விளைவிக்கிறார். வழக்கமான முறையிலோ இயற்கை முறையிலோ பயிரிட்டு, மண்ணையும் பயிரையும் பராமரித்து, விளைச்சலை விற்கிறார்.
+  activities:
+    en: [Prepare the land and sow seeds, Water the crops and control weeds and pests, Harvest and store the produce, Sell the produce and keep farm records]
+    ta: [நிலத்தைத் தயார் செய்து விதை விதைப்பது, பயிருக்கு நீர் பாய்ச்சி களை மற்றும் பூச்சிகளைக் கட்டுப்படுத்துவது, அறுவடை செய்து விளைபொருளைச் சேமிப்பது, விளைபொருளை விற்று பண்ணைக் கணக்கு வைப்பது]
+  skills:
+    en: [Knowledge of soil and seasons, Patience and hard work, Basic record keeping, Willingness to try new methods]
+    ta: [மண் மற்றும் பருவம் பற்றிய அறிவு, பொறுமையும் உழைப்பும், அடிப்படைக் கணக்கு வைக்கும் திறன், புதிய முறைகளை முயன்று பார்க்கும் மனம்]
+  entry:
+    typical_min_stage: null
+    notes:
+      en: Typically many farmers learn by working on the family or a local farm. No formal qualification is usually needed, though farming courses exist. This is a typical route, not an official requirement.
+      ta: பொதுவாக குடும்ப நிலத்திலோ உள்ளூர் பண்ணையிலோ வேலை செய்து கற்றுக்கொள்கிறார்கள். முறையான படிப்பு பெரும்பாலும் தேவையில்லை, ஆனால் விவசாயப் படிப்புகளும் உள்ளன. இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல.
+  routes:
+    - {kind: on_the_job, title: {en: Learn by working on a farm, ta: பண்ணையில் வேலை செய்து கற்றுக்கொள்ளுதல்}, min_stage: null}
+    - {kind: short_course, title: {en: Short farming or organic farming training, ta: விவசாயம் அல்லது இயற்கை விவசாயப் பயிற்சி}, min_stage: null}
+    - {kind: degree, title: {en: Agriculture degree or diploma, ta: வேளாண்மைப் பட்டம் அல்லது டிப்ளமா}, min_stage: class_12}
+  related: [dairy-farmer, agricultural-extension-worker, food-processing-entrepreneur]
+  learning_resources: [skill-india-digital-hub-portal]
+  keywords: [farming, farmer, விவசாயம், விவசாயி, organic farming, இயற்கை விவசாயம், crops, பயிர், paddy, agriculture]
+  source_refs: []
+
+- slug: dairy-farmer
+  family: agriculture
+  title: {en: Dairy farmer, ta: பால் பண்ணையாளர்}
+  description:
+    en: Keeps cows or buffaloes and collects their milk. Looks after the animals' feed, health and shelter, and supplies milk to local buyers or dairy groups.
+    ta: பசு, எருமை வளர்த்து பால் கறக்கிறார். மாடுகளுக்குத் தீவனம், உடல்நலம், கொட்டகை ஆகியவற்றைக் கவனித்து, பாலை உள்ளூர் வாங்குபவர்களுக்கோ பால் சங்கங்களுக்கோ கொடுக்கிறார்.
+  activities:
+    en: [Feed and clean the animals, Milk the animals and keep milk clean, Watch animal health and call a vet when needed, Supply milk and keep simple accounts]
+    ta: [மாடுகளுக்குத் தீவனம் போட்டு சுத்தம் செய்வது, பால் கறந்து சுத்தமாக வைத்திருப்பது, மாடுகளின் உடல்நலத்தைக் கவனித்து தேவைப்படும்போது கால்நடை மருத்துவரை அழைப்பது, பாலை கொடுத்து எளிய கணக்கு வைப்பது]
+  skills:
+    en: [Caring for animals, Early morning routine and discipline, Basic knowledge of animal feed and health, Simple accounts]
+    ta: [விலங்குகளைப் பராமரிக்கும் திறன், அதிகாலை எழுந்து வேலை செய்யும் ஒழுக்கம், தீவனம் மற்றும் நலம் பற்றிய அடிப்படை அறிவு, எளிய கணக்கு]
+  entry:
+    typical_min_stage: null
+    notes:
+      en: Typically people start by learning from family or neighbours who keep animals. Formal qualification varies and is often not needed. This is a typical route, not an official requirement.
+      ta: பொதுவாக மாடு வளர்க்கும் குடும்பத்தினர் அல்லது அக்கம்பக்கத்தாரிடம் கற்றுத் தொடங்குகிறார்கள். படிப்புத் தேவை மாறுபடும், பெரும்பாலும் தேவையில்லை. இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல.
+  routes:
+    - {kind: on_the_job, title: {en: Learn on a dairy farm or from experienced keepers, ta: பால் பண்ணையிலோ அனுபவமுள்ளவர்களிடமோ கற்றுக்கொள்ளுதல்}, min_stage: null}
+    - {kind: short_course, title: {en: Short dairy or animal care training, ta: பால் தொழில் அல்லது கால்நடைப் பராமரிப்புக் குறுகியகாலப் பயிற்சி}, min_stage: null}
+  related: [crop-farmer, agricultural-extension-worker, food-processing-entrepreneur]
+  learning_resources: [skill-india-digital-hub-portal]
+  keywords: [dairy, milk, பால், பசு, cow, மாடு வளர்ப்பு, cattle, animal farming, கால்நடை, buffalo]
+  source_refs: []
+
+- slug: agricultural-extension-worker
+  family: agriculture
+  title: {en: Agricultural extension worker, ta: வேளாண் விரிவாக்கப் பணியாளர்}
+  description:
+    en: Helps farmers by sharing farming advice, new methods and information about government schemes. Visits villages and fields and connects farmers with agriculture offices.
+    ta: விவசாயிகளுக்கு விவசாய ஆலோசனை, புதிய முறைகள், அரசுத் திட்டங்கள் பற்றிய தகவல்களைச் சொல்லி உதவுகிறார். கிராமங்களுக்கும் வயல்களுக்கும் சென்று விவசாயிகளை வேளாண் அலுவலகங்களுடன் இணைக்கிறார்.
+  activities:
+    en: [Visit farms and talk to farmers, Explain new crop methods and good practices, Tell farmers about schemes they can ask about, Help farmers with problems like pests or soil, Keep field visit notes]
+    ta: [வயல்களுக்குச் சென்று விவசாயிகளிடம் பேசுவது, புதிய பயிர் முறைகளையும் நல்ல வழிகளையும் விளக்குவது, விவசாயிகள் கேட்டுப் பெறக்கூடிய திட்டங்களைப் பற்றிச் சொல்வது, பூச்சி மண் போன்ற பிரச்சினைகளுக்கு உதவுவது, களப்பயணக் குறிப்புகளை எழுதி வைப்பது]
+  skills:
+    en: [Good knowledge of farming, Clear speaking and listening, Travelling to villages, Basic writing and reporting]
+    ta: [விவசாயத்தில் நல்ல அறிவு, தெளிவாகப் பேசி கவனிக்கும் திறன், கிராமங்களுக்குப் பயணிக்கும் மனம், அடிப்படை எழுத்து மற்றும் அறிக்கை எழுதும் திறன்]
+  entry:
+    typical_min_stage: iti_or_diploma
+    notes:
+      en: Typically an agriculture diploma or degree is a common route, and government posts usually have their own rules. This is a typical route, not an official requirement, so check the official notice.
+      ta: பொதுவாக வேளாண்மை டிப்ளமா அல்லது பட்டம் ஒரு பொதுவான வழி; அரசுப் பணிகளுக்குத் தனி விதிகள் இருக்கும். இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல, எனவே அதிகாரபூர்வ அறிவிப்பைப் பாருங்கள்.
+  routes:
+    - {kind: diploma, title: {en: Agriculture diploma, ta: வேளாண்மை டிப்ளமா}, min_stage: class_10}
+    - {kind: degree, title: {en: Agriculture degree, ta: வேளாண்மைப் பட்டப்படிப்பு}, min_stage: class_12}
+    - {kind: competitive_exam, title: {en: Government recruitment exam for agriculture posts, ta: வேளாண் பணிகளுக்கான அரசுத் தேர்வு}, min_stage: null}
+  related: [crop-farmer, dairy-farmer, vocational-trainer]
+  learning_resources: [swayam-portal, ncs-portal]
+  keywords: [agriculture officer, extension, வேளாண்மை, விவசாய ஆலோசகர், farm advisor, agri diploma, வேளாண் அலுவலர், village work]
+  source_refs: []
+
+# ---------------- skilled_trades ----------------
+- slug: electrician
+  family: skilled_trades
+  title: {en: Electrician, ta: எலக்ட்ரீஷியன்}
+  description:
+    en: Installs, checks and repairs electrical wiring and equipment in homes, shops, farms and factories. Works safely with electricity to find and fix faults.
+    ta: வீடு, கடை, பண்ணை, தொழிற்சாலை ஆகியவற்றில் மின் வயரிங் மற்றும் மின் சாதனங்களைப் பொருத்தி, சோதித்து, பழுது பார்க்கிறார். பாதுகாப்பாக மின்சாரத்துடன் வேலை செய்து கோளாறுகளைக் கண்டுபிடித்துச் சரிசெய்கிறார்.
+  activities:
+    en: [Fit wiring and switches and fans, Find and repair electrical faults, Repair or install motors and pumps, Follow safety steps on every job]
+    ta: [வயரிங் சுவிட்ச் மற்றும் மின்விசிறி பொருத்துவது, மின் கோளாறுகளைக் கண்டுபிடித்துச் சரிசெய்வது, மோட்டார் மற்றும் பம்ப் செட்டைப் பழுது பார்ப்பது அல்லது பொருத்துவது, ஒவ்வொரு வேலையிலும் பாதுகாப்பு முறைகளைப் பின்பற்றுவது]
+  skills:
+    en: [Understanding of circuits, Careful and safe working habits, Using testers and hand tools, Reading simple diagrams]
+    ta: [மின் இணைப்புகள் பற்றிய புரிதல், கவனமும் பாதுகாப்பான வேலைப் பழக்கமும், டெஸ்டர் மற்றும் கைக்கருவிகளைப் பயன்படுத்தும் திறன், எளிய வரைபடங்களைப் படிக்கும் திறன்]
+  entry:
+    typical_min_stage: class_10
+    notes:
+      en: Typically people join an ITI trade course after Class 10 or learn as a helper with an experienced electrician. This is a typical route, not an official requirement, and licence rules can vary.
+      ta: பொதுவாக 10ஆம் வகுப்புக்குப் பிறகு ஐடிஐ படிப்பில் சேர்கிறார்கள் அல்லது அனுபவமுள்ள எலக்ட்ரீஷியனிடம் உதவியாளராகக் கற்கிறார்கள். இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல; உரிமம் விதிகள் மாறுபடலாம்.
+  routes:
+    - {kind: iti, title: {en: ITI trade course in this field, ta: இந்தத் துறையில் ஐடிஐ தொழிற்பிரிவுப் படிப்பு}, min_stage: class_10}
+    - {kind: apprenticeship, title: {en: Apprenticeship with an employer, ta: நிறுவனத்தில் தொழில் பழகுநர் பயிற்சி}, min_stage: class_10, opportunity: apprenticeship-india-portal}
+    - {kind: on_the_job, title: {en: Work as a helper and learn on the job, ta: உதவியாளராக வேலை செய்து கற்றுக்கொள்ளுதல்}, min_stage: null}
+  related: [welder, automobile-mechanic, mobile-phone-repair-technician]
+  learning_resources: [skill-india-digital-hub-portal, tn-skill-development-portal]
+  keywords: [electrician, electrical, wiring, எலக்ட்ரீஷியன், மின்சாரம், current work, ITI, motor repair, மின் வேலை]
+  source_refs: []
+
+- slug: welder
+  family: skilled_trades
+  title: {en: Welder, ta: வெல்டர்}
+  description:
+    en: Joins metal parts using heat and special equipment to make or repair gates, grills, frames, machines and structures. Works with care to stay safe from heat, sparks and fumes.
+    ta: வெப்பமும் சிறப்புக் கருவிகளும் பயன்படுத்தி உலோகப் பாகங்களை இணைத்து கேட், கிரில், சட்டம், இயந்திரம், கட்டமைப்புகளைச் செய்கிறார் அல்லது பழுது பார்க்கிறார். வெப்பம், தீப்பொறி, புகையிலிருந்து பாதுகாப்பாக இருக்கக் கவனமாக வேலை செய்கிறார்.
+  activities:
+    en: [Measure and cut metal pieces, Join metal parts by welding, Repair broken metal items, Wear safety gear and check equipment]
+    ta: [உலோகத் துண்டுகளை அளந்து வெட்டுவது, வெல்டிங் மூலம் உலோகப் பாகங்களை இணைப்பது, உடைந்த உலோகப் பொருட்களைப் பழுது பார்ப்பது, பாதுகாப்புக் கவசம் அணிந்து கருவிகளைச் சோதிப்பது]
+  skills:
+    en: [Steady hands and good eyesight, Reading simple drawings and measurements, Safety awareness, Patience and accuracy]
+    ta: [நிலையான கை மற்றும் நல்ல பார்வை, எளிய வரைபடம் மற்றும் அளவுகளைப் படிக்கும் திறன், பாதுகாப்பு விழிப்புணர்வு, பொறுமையும் துல்லியமும்]
+  entry:
+    typical_min_stage: class_10
+    notes:
+      en: Typically people join an ITI trade course or start as a helper in a workshop. Requirements vary by course and employer. This is a typical route, not an official requirement.
+      ta: பொதுவாக ஐடிஐ தொழிற்பிரிவில் சேர்கிறார்கள் அல்லது பட்டறையில் உதவியாளராகத் தொடங்குகிறார்கள். படிப்பு மற்றும் நிறுவனத்தைப் பொறுத்து தேவைகள் மாறும். இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல.
+  routes:
+    - {kind: iti, title: {en: ITI trade course in this field, ta: இந்தத் துறையில் ஐடிஐ தொழிற்பிரிவுப் படிப்பு}, min_stage: class_10}
+    - {kind: apprenticeship, title: {en: Apprenticeship with an employer, ta: நிறுவனத்தில் தொழில் பழகுநர் பயிற்சி}, min_stage: class_10, opportunity: apprenticeship-india-portal}
+    - {kind: on_the_job, title: {en: Start as a helper in a workshop, ta: பட்டறையில் உதவியாளராகத் தொடங்குதல்}, min_stage: null}
+  related: [electrician, automobile-mechanic, commercial-driver]
+  learning_resources: [skill-india-digital-hub-portal, tn-skill-development-portal]
+  keywords: [welding, welder, வெல்டிங், iron work, grill gate, workshop, பட்டறை, metal work, fabrication]
+  source_refs: []
+
+- slug: automobile-mechanic
+  family: skilled_trades
+  title: {en: Automobile mechanic, ta: ஆட்டோமொபைல் மெக்கானிக்}
+  description:
+    en: Checks, services and repairs vehicles such as bikes, autos, cars and tractors. Finds out why a vehicle has a problem and fixes it.
+    ta: பைக், ஆட்டோ, கார், டிராக்டர் போன்ற வாகனங்களைச் சோதித்து, சர்வீஸ் செய்து, பழுது பார்க்கிறார். வாகனத்தில் என்ன பிரச்சினை என்று கண்டுபிடித்துச் சரிசெய்கிறார்.
+  activities:
+    en: [Service engines and brakes and tyres, Find the cause of a vehicle problem, Replace worn parts, Keep the workshop tools and area in order]
+    ta: [என்ஜின் பிரேக் டயர்களை சர்வீஸ் செய்வது, வாகனப் பிரச்சினைக்கான காரணத்தைக் கண்டுபிடிப்பது, தேய்ந்த பாகங்களை மாற்றுவது, பட்டறைக் கருவிகளையும் இடத்தையும் ஒழுங்காக வைப்பது]
+  skills:
+    en: [Understanding how engines work, Using tools correctly, Patient problem solving, Talking clearly with customers]
+    ta: [என்ஜின் எப்படி வேலை செய்கிறது என்ற புரிதல், கருவிகளைச் சரியாகப் பயன்படுத்தும் திறன், பொறுமையாகப் பிரச்சினையைத் தீர்க்கும் திறன், வாடிக்கையாளரிடம் தெளிவாகப் பேசும் திறன்]
+  entry:
+    typical_min_stage: class_10
+    notes:
+      en: Typically people join an ITI trade course after Class 10 or learn as a helper in a garage. This is a typical route, not an official requirement, and it varies by employer.
+      ta: பொதுவாக 10ஆம் வகுப்புக்குப் பிறகு ஐடிஐ படிப்பில் சேர்கிறார்கள் அல்லது கேரேஜில் உதவியாளராகக் கற்கிறார்கள். இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல; நிறுவனத்தைப் பொறுத்து மாறும்.
+  routes:
+    - {kind: iti, title: {en: ITI trade course in this field, ta: இந்தத் துறையில் ஐடிஐ தொழிற்பிரிவுப் படிப்பு}, min_stage: class_10}
+    - {kind: diploma, title: {en: Diploma in automobile or mechanical field, ta: ஆட்டோமொபைல் அல்லது மெக்கானிக்கல் டிப்ளமா}, min_stage: class_10}
+    - {kind: apprenticeship, title: {en: Apprenticeship with an employer, ta: நிறுவனத்தில் தொழில் பழகுநர் பயிற்சி}, min_stage: class_10, opportunity: apprenticeship-india-portal}
+    - {kind: on_the_job, title: {en: Learn as a helper in a garage, ta: கேரேஜில் உதவியாளராகக் கற்றுக்கொள்ளுதல்}, min_stage: null}
+  related: [electrician, welder, commercial-driver]
+  learning_resources: [skill-india-digital-hub-portal, tn-skill-development-portal]
+  keywords: [mechanic, fixing bikes, bike repair, மெக்கானிக், வாகனம் பழுது, garage, two wheeler, car service, ஆட்டோ, tractor repair]
+  source_refs: []
+
+# ---------------- health_care ----------------
+- slug: nurse
+  family: health_care
+  title: {en: Nurse, ta: நர்ஸ்}
+  description:
+    en: Cares for patients in hospitals, clinics and health centres. Helps doctors, gives care and medicines as instructed, and supports patients and families.
+    ta: மருத்துவமனை, கிளினிக், சுகாதார மையங்களில் நோயாளிகளைக் கவனித்துக்கொள்கிறார். மருத்துவர்களுக்கு உதவி, சொன்னபடி பராமரிப்பும் மருந்தும் கொடுத்து, நோயாளிகளுக்கும் குடும்பத்தினருக்கும் ஆதரவாக இருக்கிறார்.
+  activities:
+    en: [Check patients and note their condition, Give medicines and dressings as instructed, Help patients with daily care, Explain simple health advice to families]
+    ta: [நோயாளிகளைப் பார்த்து அவர்கள் நிலையைக் குறித்து வைப்பது, சொன்னபடி மருந்தும் கட்டும் போடுவது, நோயாளிகளின் அன்றாடப் பராமரிப்பில் உதவுவது, குடும்பத்தினருக்கு எளிய உடல்நல ஆலோசனை சொல்வது]
+  skills:
+    en: [Caring and kind nature, Attention to detail, Staying calm in difficult moments, Teamwork]
+    ta: [அக்கறையும் இரக்கமும், சிறு விஷயங்களையும் கவனிக்கும் திறன், சிரமமான நேரங்களிலும் அமைதியாக இருப்பது, குழுவாக வேலை செய்யும் திறன்]
+  entry:
+    typical_min_stage: class_12
+    notes:
+      en: Typically nursing training is taken after Class 12 through a nursing diploma or degree, and some routes may differ. This is a typical route, not an official requirement, so check with the nursing college.
+      ta: பொதுவாக 12ஆம் வகுப்புக்குப் பிறகு நர்சிங் டிப்ளமா அல்லது பட்டப்படிப்பு மூலம் பயிற்சி பெறுகிறார்கள்; சில வழிகள் வேறுபடலாம். இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல; நர்சிங் கல்லூரியில் கேட்டுப் பாருங்கள்.
+  routes:
+    - {kind: diploma, title: {en: Nursing diploma course, ta: நர்சிங் டிப்ளமா படிப்பு}, min_stage: class_12}
+    - {kind: degree, title: {en: Nursing degree course, ta: நர்சிங் பட்டப்படிப்பு}, min_stage: class_12}
+  related: [medical-lab-technician, pharmacist, early-childhood-educator]
+  learning_resources: [swayam-portal]
+  keywords: [nurse, nursing, நர்ஸ், hospital, மருத்துவமனை, patient care, health worker, ANM, GNM]
+  source_refs: []
+
+- slug: medical-lab-technician
+  family: health_care
+  title: {en: Medical lab technician, ta: மருத்துவ ஆய்வக நுட்புநர்}
+  description:
+    en: Collects and tests samples such as blood and urine in a laboratory. The test results help doctors understand a patient's health.
+    ta: ஆய்வகத்தில் ரத்தம், சிறுநீர் போன்ற மாதிரிகளை எடுத்துப் பரிசோதிக்கிறார். பரிசோதனை முடிவுகள் நோயாளியின் உடல்நிலையைப் புரிந்துகொள்ள மருத்துவருக்கு உதவும்.
+  activities:
+    en: [Collect samples carefully and label them, Run tests with lab equipment, Record results accurately, Keep equipment clean and safe]
+    ta: [மாதிரிகளைக் கவனமாக எடுத்து பெயரிடுவது, ஆய்வகக் கருவிகளால் பரிசோதனை செய்வது, முடிவுகளைத் துல்லியமாகப் பதிவு செய்வது, கருவிகளைச் சுத்தமாகவும் பாதுகாப்பாகவும் வைப்பது]
+  skills:
+    en: [Accuracy and attention to detail, Interest in science and biology, Hygiene and safety habits, Honest record keeping]
+    ta: [துல்லியமும் கவனமும், அறிவியல் மற்றும் உயிரியலில் ஆர்வம், சுகாதாரம் மற்றும் பாதுகாப்புப் பழக்கங்கள், நேர்மையாகப் பதிவு வைப்பது]
+  entry:
+    typical_min_stage: class_12
+    notes:
+      en: Typically a lab technician course or diploma is taken after Class 12, often with science subjects, though rules vary by course. This is a typical route, not an official requirement.
+      ta: பொதுவாக 12ஆம் வகுப்புக்குப் பிறகு, பெரும்பாலும் அறிவியல் பாடங்களுடன், ஆய்வக நுட்புநர் படிப்பு அல்லது டிப்ளமா படிக்கிறார்கள்; படிப்பைப் பொறுத்து விதிகள் மாறும். இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல.
+  routes:
+    - {kind: diploma, title: {en: Medical laboratory technology diploma or certificate, ta: மருத்துவ ஆய்வக தொழில்நுட்ப டிப்ளமா அல்லது சான்றிதழ்}, min_stage: class_12}
+    - {kind: degree, title: {en: Medical laboratory technology degree, ta: மருத்துவ ஆய்வக தொழில்நுட்பப் பட்டப்படிப்பு}, min_stage: class_12}
+    - {kind: short_course, title: {en: Short skill course in lab assistance, ta: ஆய்வக உதவியாளர் குறுகியகாலத் திறன் படிப்பு}, min_stage: class_10}
+  related: [nurse, pharmacist, mobile-phone-repair-technician]
+  learning_resources: [skill-india-digital-hub-portal, swayam-portal]
+  keywords: [lab technician, laboratory, blood test, ஆய்வகம், ரத்தப் பரிசோதனை, DMLT, medical, health, scan, ஆய்வக நுட்புநர்]
+  source_refs: []
+
+- slug: pharmacist
+  family: health_care
+  title: {en: Pharmacist, ta: மருந்தாளுநர்}
+  description:
+    en: Prepares and gives out medicines in medical shops, hospitals and clinics as prescribed by doctors. Explains how to take medicines safely.
+    ta: மருந்துக் கடை, மருத்துவமனை, கிளினிக்கில் மருத்துவர் எழுதிக் கொடுத்தபடி மருந்துகளைத் தயார் செய்து கொடுக்கிறார். மருந்துகளைப் பாதுகாப்பாக எப்படி எடுப்பது என்று விளக்குகிறார்.
+  activities:
+    en: [Read prescriptions carefully, Give the right medicines and explain how to use them, Check stock and expiry dates, Keep records as required]
+    ta: [மருந்துச் சீட்டைக் கவனமாகப் படிப்பது, சரியான மருந்தைக் கொடுத்து எப்படி பயன்படுத்துவது என்று விளக்குவது, இருப்பையும் காலாவதித் தேதியையும் சோதிப்பது, தேவையான பதிவுகளை வைப்பது]
+  skills:
+    en: [Care and accuracy, Knowledge of medicines, Clear communication, Responsibility]
+    ta: [கவனமும் துல்லியமும், மருந்துகள் பற்றிய அறிவு, தெளிவாகப் பேசும் திறன், பொறுப்புணர்வு]
+  entry:
+    typical_min_stage: class_12
+    notes:
+      en: Typically a pharmacy diploma or degree is taken after Class 12, and a registration is usually needed to work as a pharmacist. This is a typical route, not an official requirement, so confirm the current rules.
+      ta: பொதுவாக 12ஆம் வகுப்புக்குப் பிறகு மருந்தியல் டிப்ளமா அல்லது பட்டம் படிக்கிறார்கள்; மருந்தாளுநராகப் பணிபுரிய பொதுவாக பதிவு தேவைப்படும். இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல; தற்போதைய விதிகளை உறுதி செய்யுங்கள்.
+  routes:
+    - {kind: diploma, title: {en: Pharmacy diploma course, ta: மருந்தியல் டிப்ளமா படிப்பு}, min_stage: class_12}
+    - {kind: degree, title: {en: Pharmacy degree course, ta: மருந்தியல் பட்டப்படிப்பு}, min_stage: class_12}
+  related: [nurse, medical-lab-technician, small-shop-owner]
+  learning_resources: [swayam-portal]
+  keywords: [pharmacist, pharmacy, medical shop, மருந்துக் கடை, மருந்தாளுநர், D.Pharm, B.Pharm, medicines, மருந்து]
+  source_refs: []
+
+# ---------------- education ----------------
+- slug: primary-school-teacher
+  family: education
+  title: {en: Primary school teacher, ta: தொடக்கப்பள்ளி ஆசிரியர்}
+  description:
+    en: Teaches young children basic subjects such as language, maths and environment in a school. Helps children learn to read, write and think, and works with parents.
+    ta: பள்ளியில் சிறு குழந்தைகளுக்கு மொழி, கணிதம், சுற்றுச்சூழல் போன்ற அடிப்படைப் பாடங்களைக் கற்றுக்கொடுக்கிறார். குழந்தைகள் படிக்கவும் எழுதவும் சிந்திக்கவும் உதவி, பெற்றோருடன் இணைந்து செயல்படுகிறார்.
+  activities:
+    en: [Plan and teach lessons, Check children's notebooks and progress, Use stories and games and activities to teach, Talk with parents about their child]
+    ta: [பாடங்களைத் திட்டமிட்டுக் கற்றுக்கொடுப்பது, குழந்தைகளின் நோட்டுப் புத்தகங்களையும் முன்னேற்றத்தையும் பார்ப்பது, கதை விளையாட்டு செயல்பாடுகள் மூலம் கற்பிப்பது, குழந்தையைப் பற்றி பெற்றோருடன் பேசுவது]
+  skills:
+    en: [Patience with children, Clear speaking and explaining, Good basic subject knowledge, Organising a classroom]
+    ta: [குழந்தைகளிடம் பொறுமை, தெளிவாகப் பேசி விளக்கும் திறன், அடிப்படைப் பாட அறிவு, வகுப்பறையை ஒழுங்காக நடத்தும் திறன்]
+  entry:
+    typical_min_stage: class_12
+    notes:
+      en: Typically a teacher training course after Class 12 or a degree plus teacher training is the route, and government teaching posts usually need an eligibility test. This is a typical route, not an official requirement, so check the current notice.
+      ta: பொதுவாக 12ஆம் வகுப்புக்குப் பிறகு ஆசிரியர் பயிற்சிப் படிப்பு அல்லது பட்டம் மற்றும் ஆசிரியர் பயிற்சி ஒரு வழி; அரசு ஆசிரியர் பணிகளுக்குப் பொதுவாக தகுதித் தேர்வு தேவைப்படும். இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல; தற்போதைய அறிவிப்பைப் பாருங்கள்.
+  routes:
+    - {kind: diploma, title: {en: Teacher training diploma, ta: ஆசிரியர் பயிற்சி டிப்ளமா}, min_stage: class_12}
+    - {kind: degree, title: {en: Degree followed by teacher education, ta: பட்டப்படிப்புக்குப் பின் ஆசிரியர் கல்விப் படிப்பு}, min_stage: undergraduate}
+    - {kind: competitive_exam, title: {en: Teacher eligibility or recruitment test, ta: ஆசிரியர் தகுதித் தேர்வு அல்லது பணியமர்வுத் தேர்வு}, min_stage: null}
+  related: [early-childhood-educator, vocational-trainer, government-clerk]
+  learning_resources: [diksha-portal, swayam-portal]
+  keywords: [teacher, teaching, ஆசிரியர், ஆசிரியர் பணி, school, பள்ளி, primary, TET, B.Ed, D.El.Ed]
+  source_refs: []
+
+- slug: early-childhood-educator
+  family: education
+  title: {en: Early childhood educator (anganwadi or preschool), ta: குழந்தைப் பருவக் கல்வியாளர் (அங்கன்வாடி அல்லது மழலையர் பள்ளி)}
+  description:
+    en: Looks after and teaches very young children through play, songs and stories in an anganwadi or preschool. Helps children get ready for school and keeps them safe and happy.
+    ta: அங்கன்வாடி அல்லது மழலையர் பள்ளியில் விளையாட்டு, பாட்டு, கதைகள் மூலம் மிகச் சிறிய குழந்தைகளைக் கவனித்துக் கற்றுக்கொடுக்கிறார். குழந்தைகளைப் பள்ளிக்குத் தயார்படுத்தி, பாதுகாப்பாகவும் மகிழ்ச்சியாகவும் வைத்திருக்கிறார்.
+  activities:
+    en: [Run play and learning activities, Teach songs and stories and simple letters and numbers, Keep children safe and clean, Talk with parents about the child's growth]
+    ta: [விளையாட்டு மற்றும் கற்றல் செயல்பாடுகளை நடத்துவது, பாட்டு கதை எளிய எழுத்து எண்களைக் கற்றுக்கொடுப்பது, குழந்தைகளைப் பாதுகாப்பாகவும் சுத்தமாகவும் வைப்பது, குழந்தையின் வளர்ச்சி பற்றி பெற்றோருடன் பேசுவது]
+  skills:
+    en: [Love and patience with children, Storytelling and singing, Basic care and hygiene, Talking well with parents]
+    ta: [குழந்தைகளிடம் அன்பும் பொறுமையும், கதை சொல்லவும் பாடவும் தெரிவது, அடிப்படைப் பராமரிப்பும் சுகாதாரமும், பெற்றோரிடம் நன்றாகப் பேசும் திறன்]
+  entry:
+    typical_min_stage: null
+    notes:
+      en: Typically the needed schooling and training vary by employer and by government scheme, and early childhood education courses exist after school. This is a typical route, not an official requirement, so check the current notice.
+      ta: பொதுவாக தேவையான படிப்பும் பயிற்சியும் நிறுவனம் மற்றும் அரசுத் திட்டத்தைப் பொறுத்து மாறும்; பள்ளிக்குப் பிறகு குழந்தைப் பருவக் கல்விப் படிப்புகளும் உள்ளன. இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல; தற்போதைய அறிவிப்பைப் பாருங்கள்.
+  routes:
+    - {kind: short_course, title: {en: Early childhood care and education course, ta: குழந்தைப் பருவப் பராமரிப்பு மற்றும் கல்விப் படிப்பு}, min_stage: null}
+    - {kind: diploma, title: {en: Early childhood education diploma, ta: குழந்தைப் பருவக் கல்வி டிப்ளமா}, min_stage: class_12}
+    - {kind: on_the_job, title: {en: Start as a helper in a preschool or centre, ta: மழலையர் பள்ளி அல்லது மையத்தில் உதவியாளராகத் தொடங்குதல்}, min_stage: null}
+  related: [primary-school-teacher, nurse, self-help-group-enterprise]
+  learning_resources: [diksha-portal]
+  keywords: [anganwadi, அங்கன்வாடி, preschool, nursery, மழலையர் பள்ளி, child care, kids, குழந்தைகள், playschool, ECCE]
+  source_refs: []
+
+- slug: vocational-trainer
+  family: education
+  title: {en: Vocational trainer, ta: தொழிற்பயிற்சி ஆசிரியர்}
+  description:
+    en: Teaches practical job skills such as a trade, a craft or computer work to learners in training centres. Shows learners how to do the work and checks their progress.
+    ta: பயிற்சி மையங்களில் ஒரு தொழில், கைவினை, கணினி வேலை போன்ற செயல்முறைத் திறன்களைக் கற்பிக்கிறார். வேலையை எப்படிச் செய்வது என்று செய்து காட்டி, கற்பவர்களின் முன்னேற்றத்தைப் பார்க்கிறார்.
+  activities:
+    en: [Demonstrate skills step by step, Guide learners in practice sessions, Check learners' work and give feedback, Keep training tools safe and ready]
+    ta: [திறன்களைப் படிப்படியாகச் செய்து காட்டுவது, பயிற்சி நேரத்தில் கற்பவர்களுக்கு வழிகாட்டுவது, கற்பவர்களின் வேலையைப் பார்த்து கருத்து சொல்வது, பயிற்சிக் கருவிகளைப் பாதுகாப்பாகத் தயாராக வைப்பது]
+  skills:
+    en: [Strong practical skill in one trade, Clear explaining and showing, Patience, Planning a lesson]
+    ta: [ஒரு தொழிலில் வலுவான செயல்முறைத் திறன், தெளிவாக விளக்கிக் காட்டும் திறன், பொறுமை, பாடத்தைத் திட்டமிடும் திறன்]
+  entry:
+    typical_min_stage: iti_or_diploma
+    notes:
+      en: Typically trainers first gain skill and work experience in their trade and then take a trainer course, but this varies by institution. This is a typical route, not an official requirement.
+      ta: பொதுவாக பயிற்றுநர்கள் முதலில் தங்கள் தொழிலில் திறனும் அனுபவமும் பெற்று, பிறகு பயிற்றுநர் படிப்பு படிக்கிறார்கள்; நிறுவனத்தைப் பொறுத்து மாறும். இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல.
+  routes:
+    - {kind: on_the_job, title: {en: Gain work experience in a trade first, ta: முதலில் ஒரு தொழிலில் வேலை அனுபவம் பெறுதல்}, min_stage: null}
+    - {kind: short_course, title: {en: Trainer or instructor course, ta: பயிற்றுநர் படிப்பு}, min_stage: iti_or_diploma, opportunity: skill-india-digital-hub-portal}
+    - {kind: iti, title: {en: ITI or diploma in your own trade, ta: உங்கள் தொழிலில் ஐடிஐ அல்லது டிப்ளமா}, min_stage: class_10}
+  related: [primary-school-teacher, electrician, computer-operator]
+  learning_resources: [skill-india-digital-hub-portal, tn-skill-development-portal]
+  keywords: [trainer, instructor, skill training, பயிற்சியாளர், ITI instructor, teaching skills, தொழிற்பயிற்சி, training centre, coach]
+  source_refs: []
+
+# ---------------- creative_crafts ----------------
+- slug: tailor-fashion-designer
+  family: creative_crafts
+  title: {en: Tailor or fashion designer, ta: தையல்காரர் அல்லது ஆடை வடிவமைப்பாளர்}
+  description:
+    en: Cuts and stitches clothes for customers, and may design new styles. Many work from their own shop or home, and some work in garment units.
+    ta: வாடிக்கையாளர்களுக்குத் துணியை வெட்டித் தைத்துக் கொடுக்கிறார், புதிய டிசைன்களும் உருவாக்கலாம். பலர் சொந்தக் கடையிலோ வீட்டிலோ வேலை செய்கிறார்கள், சிலர் ஆடைத் தயாரிப்பு நிறுவனங்களில் வேலை செய்கிறார்கள்.
+  activities:
+    en: [Take measurements and cut cloth, Stitch and finish garments, Do alterations and repairs, Suggest styles and designs to customers]
+    ta: [அளவு எடுத்துத் துணியை வெட்டுவது, ஆடைகளைத் தைத்து முடிப்பது, அளவு மாற்றம் மற்றும் பழுது வேலைகளைச் செய்வது, வாடிக்கையாளர்களுக்கு டிசைன் ஆலோசனை சொல்வது]
+  skills:
+    en: [Accurate measuring, Sewing machine skill, Eye for colour and style, Dealing well with customers]
+    ta: [துல்லியமாக அளவெடுக்கும் திறன், தையல் இயந்திரத்தை இயக்கும் திறன், நிறம் மற்றும் டிசைனில் ரசனை, வாடிக்கையாளரிடம் நன்றாகப் பழகும் திறன்]
+  entry:
+    typical_min_stage: null
+    notes:
+      en: Typically people learn tailoring through a short course or from an experienced tailor, while fashion design courses exist at diploma and degree level. This is a typical route, not an official requirement.
+      ta: பொதுவாக குறுகியகாலப் படிப்பு அல்லது அனுபவமுள்ள தையல்காரரிடம் தையல் கற்கிறார்கள்; ஆடை வடிவமைப்புக்கு டிப்ளமா, பட்டப் படிப்புகளும் உள்ளன. இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல.
+  routes:
+    - {kind: on_the_job, title: {en: Learn from an experienced tailor, ta: அனுபவமுள்ள தையல்காரரிடம் கற்றுக்கொள்ளுதல்}, min_stage: null}
+    - {kind: short_course, title: {en: Tailoring or garment making course, ta: தையல் அல்லது ஆடைத் தயாரிப்புப் படிப்பு}, min_stage: null, opportunity: skill-india-digital-hub-portal}
+    - {kind: diploma, title: {en: Fashion design diploma or degree, ta: ஆடை வடிவமைப்பு டிப்ளமா அல்லது பட்டப்படிப்பு}, min_stage: class_12}
+  related: [handloom-weaver-craftsperson, small-shop-owner, self-help-group-enterprise]
+  learning_resources: [skill-india-digital-hub-portal, tn-skill-development-portal]
+  keywords: [tailor, tailoring, தையல், தையல்காரர், fashion design, ஆடை வடிவமைப்பு, boutique, stitching, garments, blouse]
+  source_refs: []
+
+- slug: handloom-weaver-craftsperson
+  family: creative_crafts
+  title: {en: Handloom weaver or craftsperson, ta: கைத்தறி நெசவாளர் அல்லது கைவினைக் கலைஞர்}
+  description:
+    en: Makes cloth on a handloom or creates handmade items such as baskets, pottery or wood and palm leaf crafts. Keeps traditional skills alive and sells the products locally or through craft groups.
+    ta: கைத்தறியில் துணி நெய்கிறார் அல்லது கூடை, மண்பாண்டம், மரம் மற்றும் பனை ஓலைக் கைவினைப் பொருட்கள் போன்றவற்றைக் கையால் செய்கிறார். பாரம்பரியத் திறனைக் காப்பாற்றி, பொருட்களை உள்ளூரிலோ கைவினைக் குழுக்கள் மூலமோ விற்கிறார்.
+  activities:
+    en: [Prepare threads or raw materials, Weave or shape the product by hand, Add designs and finishing, Sell products and meet buyers]
+    ta: [நூல் அல்லது மூலப்பொருட்களைத் தயார் செய்வது, கையால் நெய்வது அல்லது பொருளை வடிவமைப்பது, டிசைன் போட்டு முடிப்பு வேலை செய்வது, பொருட்களை விற்று வாங்குபவர்களைச் சந்திப்பது]
+  skills:
+    en: [Skilled hands and patience, Sense of design and colour, Knowledge of materials, Basic selling skill]
+    ta: [திறமையான கைகளும் பொறுமையும், டிசைன் மற்றும் நிறத்தில் ரசனை, மூலப்பொருட்கள் பற்றிய அறிவு, அடிப்படை விற்பனைத் திறன்]
+  entry:
+    typical_min_stage: null
+    notes:
+      en: Typically people learn from family members or master craftspeople over time, and training programmes exist in some places. This is a typical route, not an official requirement.
+      ta: பொதுவாக குடும்பத்தினர் அல்லது அனுபவமுள்ள கலைஞர்களிடம் நீண்டகாலம் கற்கிறார்கள்; சில இடங்களில் பயிற்சித் திட்டங்களும் உள்ளன. இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல.
+  routes:
+    - {kind: on_the_job, title: {en: Learn from family or a master craftsperson, ta: குடும்பத்தினரிடமோ அனுபவமுள்ள கலைஞரிடமோ கற்றுக்கொள்ளுதல்}, min_stage: null}
+    - {kind: short_course, title: {en: Handloom or handicraft training programme, ta: கைத்தறி அல்லது கைவினைப் பயிற்சித் திட்டம்}, min_stage: null}
+    - {kind: diploma, title: {en: Textile or craft design diploma or degree, ta: ஜவுளி அல்லது கைவினை வடிவமைப்பு டிப்ளமா அல்லது பட்டப்படிப்பு}, min_stage: class_12}
+  related: [tailor-fashion-designer, self-help-group-enterprise, small-shop-owner]
+  learning_resources: [skill-india-digital-hub-portal]
+  keywords: [handloom, weaver, நெசவு, கைத்தறி, handicraft, கைவினை, pottery, மண்பாண்டம், basket, crafts, silk saree]
+  source_refs: []
+
+- slug: photographer-videographer
+  family: creative_crafts
+  title: {en: Photographer or videographer, ta: போட்டோகிராபர் அல்லது வீடியோகிராபர்}
+  description:
+    en: Takes photos and records videos for events, families, businesses and media. Also edits the photos and videos before giving them to the customer.
+    ta: விழாக்கள், குடும்பங்கள், வணிகங்கள், ஊடகங்களுக்காகப் புகைப்படங்களும் வீடியோக்களும் எடுக்கிறார். வாடிக்கையாளரிடம் கொடுப்பதற்கு முன் அவற்றை எடிட்டும் செய்கிறார்.
+  activities:
+    en: [Plan shots and set up the camera and lights, Shoot photos and videos at events or studios, Edit photos and videos on a computer, Deliver the final work to customers]
+    ta: [படங்களைத் திட்டமிட்டு கேமரா மற்றும் லைட் அமைப்பது, விழாக்களிலோ ஸ்டூடியோவிலோ போட்டோ வீடியோ எடுப்பது, கணினியில் போட்டோ வீடியோ எடிட் செய்வது, முடிந்த வேலையை வாடிக்கையாளருக்குக் கொடுப்பது]
+  skills:
+    en: [Eye for framing and light, Using a camera and editing software, Dealing well with people, Meeting deadlines]
+    ta: [படம் அமைப்பிலும் வெளிச்சத்திலும் ரசனை, கேமரா மற்றும் எடிட்டிங் மென்பொருள் பயன்படுத்தும் திறன், மக்களிடம் நன்றாகப் பழகும் திறன், சொன்ன நேரத்தில் வேலை முடிப்பது]
+  entry:
+    typical_min_stage: null
+    notes:
+      en: Typically people learn by assisting a working photographer or through short courses and self-learning, and diploma or degree courses in media also exist. This is a typical route, not an official requirement.
+      ta: பொதுவாக வேலை செய்யும் போட்டோகிராபருக்கு உதவியாளராக இருந்தோ, குறுகியகாலப் படிப்பு மற்றும் சுயமாகவோ கற்கிறார்கள்; ஊடகத் துறையில் டிப்ளமா, பட்டப் படிப்புகளும் உள்ளன. இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல.
+  routes:
+    - {kind: on_the_job, title: {en: Assist a working photographer, ta: வேலை செய்யும் போட்டோகிராபருக்கு உதவியாளராக இருத்தல்}, min_stage: null}
+    - {kind: self_learning, title: {en: Learn online and practise with a camera, ta: இணையத்தில் கற்றுக்கொண்டு கேமராவில் பயிற்சி செய்தல்}, min_stage: null}
+    - {kind: short_course, title: {en: Photography and video editing course, ta: போட்டோகிராபி மற்றும் வீடியோ எடிட்டிங் படிப்பு}, min_stage: null}
+  related: [computer-operator, small-shop-owner, tourist-guide]
+  learning_resources: [skill-india-digital-hub-portal, swayam-portal]
+  keywords: [photographer, photography, போட்டோகிராபர், videographer, video editing, வீடியோ, studio, wedding photos, camera, கேமரா]
+  source_refs: []
+
+# ---------------- public_service ----------------
+- slug: government-clerk
+  family: public_service
+  title: {en: Government clerk, ta: அரசு எழுத்தர்}
+  description:
+    en: Handles files, letters, records and data in a government office. Helps citizens and officers by keeping work organised and up to date.
+    ta: அரசு அலுவலகத்தில் கோப்புகள், கடிதங்கள், பதிவேடுகள், தரவுகளைக் கையாள்கிறார். வேலைகளை ஒழுங்காகவும் புதுப்பித்தும் வைத்து மக்களுக்கும் அதிகாரிகளுக்கும் உதவுகிறார்.
+  activities:
+    en: [Maintain files and records, Type letters and enter data, Answer questions from visitors, Pass work to the right officer]
+    ta: [கோப்புகளையும் பதிவேடுகளையும் பராமரிப்பது, கடிதம் தட்டச்சு செய்து தரவு பதிவிடுவது, வருபவர்களின் கேள்விகளுக்குப் பதில் சொல்வது, வேலைகளைச் சரியான அதிகாரிக்கு அனுப்புவது]
+  skills:
+    en: [Neat writing and typing, Basic computer use, Basic maths and language skill, Honesty and patience]
+    ta: [நேர்த்தியான எழுத்தும் தட்டச்சும், அடிப்படைக் கணினிப் பயன்பாடு, அடிப்படைக் கணிதம் மற்றும் மொழித் திறன், நேர்மையும் பொறுமையும்]
+  entry:
+    typical_min_stage: class_10
+    notes:
+      en: Typically recruitment is through competitive exams, and the needed education depends on the post and the notice. This is a typical route, not an official requirement, so always read the official notification.
+      ta: பொதுவாக போட்டித் தேர்வுகள் மூலம் ஆட்கள் எடுக்கப்படுகிறார்கள்; தேவையான படிப்பு பணியையும் அறிவிப்பையும் பொறுத்தது. இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல; எப்போதும் அதிகாரபூர்வ அறிவிப்பைப் படியுங்கள்.
+  routes:
+    - {kind: competitive_exam, title: {en: Government recruitment exam for clerical posts, ta: எழுத்தர் பணிகளுக்கான அரசுத் தேர்வு}, min_stage: null, opportunity: ncs-portal}
+    - {kind: self_learning, title: {en: Prepare with free study material and practice tests, ta: இலவசப் படிப்புப் பொருட்களும் பயிற்சித் தேர்வுகளும் மூலம் தயாராகுதல்}, min_stage: null}
+  related: [postal-banking-clerk, police-constable, computer-operator]
+  learning_resources: [swayam-portal, diksha-portal]
+  keywords: [government job, அரசு வேலை, clerk, எழுத்தர், office, exam, தேர்வு, sarkari, TNPSC, typing]
+  source_refs: []
+
+- slug: police-constable
+  family: public_service
+  title: {en: Police constable, ta: காவலர்}
+  description:
+    en: Works in the police force to keep order, help people and prevent crime. Does patrol, traffic and station duties.
+    ta: காவல் துறையில் ஒழுங்கைக் காத்து, மக்களுக்கு உதவி, குற்றங்களைத் தடுக்கும் பணி செய்கிறார். ரோந்து, போக்குவரத்து, காவல் நிலையப் பணிகளைச் செய்கிறார்.
+  activities:
+    en: [Patrol an area and help people in need, Manage traffic and crowds, Record complaints at the station, Assist in checking and keeping records]
+    ta: [ஒரு பகுதியில் ரோந்து சென்று தேவைப்படுபவர்களுக்கு உதவுவது, போக்குவரத்தையும் கூட்டத்தையும் ஒழுங்குபடுத்துவது, காவல் நிலையத்தில் புகார்களைப் பதிவு செய்வது, விசாரணை மற்றும் பதிவுகளில் உதவுவது]
+  skills:
+    en: [Physical fitness, Discipline and responsibility, Staying calm under pressure, Speaking politely and firmly]
+    ta: [உடல் தகுதி, ஒழுக்கமும் பொறுப்பும், அழுத்தத்திலும் அமைதியாக இருப்பது, மரியாதையாகவும் உறுதியாகவும் பேசும் திறன்]
+  entry:
+    typical_min_stage: class_12
+    notes:
+      en: Typically recruitment is through an exam plus fitness tests, and the education needed depends on the force and the notice. This is a typical route, not an official requirement, so read the official notification.
+      ta: பொதுவாக தேர்வு மற்றும் உடற்தகுதிச் சோதனைகள் மூலம் தேர்வு நடக்கும்; தேவையான படிப்பு காவல் படை மற்றும் அறிவிப்பைப் பொறுத்தது. இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல; அதிகாரபூர்வ அறிவிப்பைப் படியுங்கள்.
+  routes:
+    - {kind: competitive_exam, title: {en: Police recruitment exam and fitness tests, ta: காவலர் தேர்வும் உடற்தகுதிச் சோதனையும்}, min_stage: null}
+    - {kind: self_learning, title: {en: Prepare with study material and daily fitness practice, ta: படிப்புப் பொருட்களுடன் தினமும் உடற்பயிற்சி செய்து தயாராகுதல்}, min_stage: null}
+  related: [government-clerk, postal-banking-clerk, commercial-driver]
+  learning_resources: [swayam-portal]
+  keywords: [police, காவலர், constable, uniform job, சீருடைப் பணி, government job, அரசு வேலை, law and order, fitness, exam]
+  source_refs: []
+
+- slug: postal-banking-clerk
+  family: public_service
+  title: {en: Postal or banking clerk, ta: அஞ்சலக அல்லது வங்கி எழுத்தர்}
+  description:
+    en: Serves customers at a post office or bank counter, handling services such as letters, parcels, deposits and forms. Keeps accurate records and helps people understand services.
+    ta: அஞ்சலகம் அல்லது வங்கிக் கவுண்டரில் கடிதம், பார்சல், சேமிப்பு, படிவங்கள் போன்ற சேவைகளைக் கையாண்டு வாடிக்கையாளர்களுக்கு உதவுகிறார். துல்லியமாகப் பதிவு வைத்து, சேவைகளைப் புரிந்துகொள்ள மக்களுக்கு உதவுகிறார்.
+  activities:
+    en: [Serve customers at the counter, Fill in and check forms, Enter transactions in the computer system, Explain services in simple words]
+    ta: [கவுண்டரில் வாடிக்கையாளர்களுக்குச் சேவை செய்வது, படிவங்களை நிரப்பிச் சரிபார்ப்பது, கணினியில் பரிவர்த்தனைகளைப் பதிவிடுவது, சேவைகளை எளிய வார்த்தைகளில் விளக்குவது]
+  skills:
+    en: [Accuracy with numbers, Basic computer use, Polite dealing with customers, Honesty and care]
+    ta: [எண்களில் துல்லியம், அடிப்படைக் கணினிப் பயன்பாடு, வாடிக்கையாளரிடம் மரியாதையாகப் பழகுவது, நேர்மையும் கவனமும்]
+  entry:
+    typical_min_stage: class_12
+    notes:
+      en: Typically recruitment is through exams, and the education needed depends on the post and the organisation. This is a typical route, not an official requirement, so read the official notification.
+      ta: பொதுவாக தேர்வுகள் மூலம் ஆட்கள் எடுக்கப்படுகிறார்கள்; தேவையான படிப்பு பணி மற்றும் நிறுவனத்தைப் பொறுத்தது. இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல; அதிகாரபூர்வ அறிவிப்பைப் படியுங்கள்.
+  routes:
+    - {kind: competitive_exam, title: {en: Post office or bank recruitment exam, ta: அஞ்சலகம் அல்லது வங்கிப் பணித் தேர்வு}, min_stage: null, opportunity: ncs-portal}
+    - {kind: self_learning, title: {en: "Practise maths, language and computer basics", ta: "கணிதம், மொழி, கணினி அடிப்படைகளைப் பயிற்சி செய்தல்"}, min_stage: null}
+  related: [government-clerk, police-constable, computer-operator]
+  learning_resources: [swayam-portal, diksha-portal]
+  keywords: [bank job, வங்கி வேலை, post office, அஞ்சலகம், clerk, counter, banking, government job, அரசு வேலை, exam]
+  source_refs: []
+
+# ---------------- business ----------------
+- slug: small-shop-owner
+  family: business
+  title: {en: Small shop owner, ta: சிறு கடை உரிமையாளர்}
+  description:
+    en: Runs a small shop such as a grocery, stationery or repair shop in a village or town. Buys stock, serves customers and manages the accounts.
+    ta: கிராமம் அல்லது நகரத்தில் மளிகை, ஸ்டேஷனரி, பழுதுபார்ப்பு போன்ற சிறு கடையை நடத்துகிறார். சரக்கு வாங்கி, வாடிக்கையாளர்களுக்குச் சேவை செய்து, கணக்கைப் பார்த்துக்கொள்கிறார்.
+  activities:
+    en: [Buy and arrange stock, Serve customers and set fair prices, Keep daily accounts, Plan what the shop should sell next]
+    ta: [சரக்கு வாங்கி அடுக்குவது, வாடிக்கையாளர்களுக்குச் சேவை செய்து நியாயமான விலை வைப்பது, தினசரிக் கணக்கு வைப்பது, கடையில் அடுத்து என்ன விற்கலாம் என்று திட்டமிடுவது]
+  skills:
+    en: [Basic maths and accounts, Talking well with customers, Honesty and trust, Planning and saving]
+    ta: [அடிப்படைக் கணிதமும் கணக்கும், வாடிக்கையாளரிடம் நன்றாகப் பேசுவது, நேர்மையும் நம்பிக்கையும், திட்டமிடலும் சேமிப்பும்]
+  entry:
+    typical_min_stage: null
+    notes:
+      en: Typically people start by working in a family or local shop to learn the work, and no fixed qualification is needed, but some shops need licences or registration. This is a typical route, not an official requirement.
+      ta: பொதுவாக குடும்பக் கடையிலோ உள்ளூர் கடையிலோ வேலை செய்து கற்றுத் தொடங்குகிறார்கள்; குறிப்பிட்ட படிப்பு தேவையில்லை, ஆனால் சில கடைகளுக்கு உரிமம் அல்லது பதிவு தேவைப்படலாம். இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல.
+  routes:
+    - {kind: on_the_job, title: {en: Work in a shop and learn the business, ta: கடையில் வேலை செய்து தொழிலைக் கற்றுக்கொள்ளுதல்}, min_stage: null}
+    - {kind: short_course, title: {en: Short entrepreneurship or shop management training, ta: தொழில்முனைவு அல்லது கடை மேலாண்மைக் குறுகியகாலப் பயிற்சி}, min_stage: null}
+    - {kind: self_learning, title: {en: Learn accounts and business basics online, ta: இணையத்தில் கணக்கும் வணிக அடிப்படைகளும் கற்றல்}, min_stage: null}
+  related: [food-processing-entrepreneur, self-help-group-enterprise, delivery-logistics-worker]
+  learning_resources: [skill-india-digital-hub-portal, swayam-portal]
+  keywords: [shop, கடை, business, வியாபாரம், grocery, மளிகை, trading, own business, சொந்தத் தொழில், retail]
+  source_refs: []
+
+- slug: food-processing-entrepreneur
+  family: business
+  title: {en: Food processing entrepreneur, ta: உணவுப் பதப்படுத்தும் தொழில்முனைவோர்}
+  description:
+    en: Makes food products such as pickles, flour, snacks or dried foods from local produce and sells them. Takes care of quality, packing and selling.
+    ta: உள்ளூர் விளைபொருட்களிலிருந்து ஊறுகாய், மாவு, தின்பண்டம், உலர் உணவுப் பொருட்கள் போன்றவற்றைத் தயாரித்து விற்கிறார். தரம், பேக்கிங், விற்பனையைக் கவனித்துக்கொள்கிறார்.
+  activities:
+    en: [Buy and clean raw materials, Prepare and pack food products, Keep the place and tools clean and safe, Find buyers and sell the products]
+    ta: [மூலப்பொருட்களை வாங்கிச் சுத்தம் செய்வது, உணவுப் பொருட்களைத் தயாரித்துப் பேக் செய்வது, இடத்தையும் கருவிகளையும் சுத்தமாகவும் பாதுகாப்பாகவும் வைப்பது, வாங்குபவர்களைக் கண்டுபிடித்து விற்பது]
+  skills:
+    en: [Cooking or food preparation skill, Cleanliness and food safety habits, Basic accounts, Selling and talking to buyers]
+    ta: [சமையல் அல்லது உணவு தயாரிக்கும் திறன், தூய்மையும் உணவுப் பாதுகாப்புப் பழக்கங்களும், அடிப்படைக் கணக்கு, விற்பனை மற்றும் வாங்குபவர்களிடம் பேசும் திறன்]
+  entry:
+    typical_min_stage: null
+    notes:
+      en: Typically people start small at home or in a group after learning a recipe or a training, and selling food usually needs some registration or licence. This is a typical route, not an official requirement, so check the current rules.
+      ta: பொதுவாக ஒரு செய்முறை அல்லது பயிற்சி கற்ற பிறகு வீட்டிலோ குழுவிலோ சிறிதாகத் தொடங்குகிறார்கள்; உணவு விற்க பொதுவாக பதிவு அல்லது உரிமம் தேவைப்படும். இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல; தற்போதைய விதிகளைப் பாருங்கள்.
+  routes:
+    - {kind: short_course, title: {en: Food processing training, ta: உணவுப் பதப்படுத்துதல் பயிற்சி}, min_stage: null, opportunity: skill-india-digital-hub-portal}
+    - {kind: on_the_job, title: {en: Learn at a small food unit, ta: சிறிய உணவுத் தயாரிப்பு நிறுவனத்தில் கற்றுக்கொள்ளுதல்}, min_stage: null}
+    - {kind: diploma, title: {en: Food technology diploma or degree, ta: உணவுத் தொழில்நுட்ப டிப்ளமா அல்லது பட்டப்படிப்பு}, min_stage: class_12}
+  related: [self-help-group-enterprise, crop-farmer, small-shop-owner]
+  learning_resources: [skill-india-digital-hub-portal, tn-skill-development-portal]
+  keywords: [food business, உணவுத் தொழில், pickle, ஊறுகாய், snacks, food processing, பதப்படுத்துதல், home business, flour mill, packing]
+  source_refs: []
+
+- slug: self-help-group-enterprise
+  family: business
+  title: {en: Self-help group micro-enterprise, ta: சுய உதவிக் குழு சிறு தொழில்}
+  description:
+    en: Works with a group of neighbours to run a small business together, such as making products, running a service or selling goods. The group saves together, shares work and makes decisions together.
+    ta: அக்கம்பக்கத்தினர் குழுவாக இணைந்து பொருட்கள் செய்வது, சேவை செய்வது, பொருட்கள் விற்பது போன்ற சிறு தொழிலை நடத்துகிறார்கள். குழு சேர்ந்து சேமித்து, வேலையைப் பகிர்ந்து, முடிவுகளை ஒன்றாக எடுக்கிறது.
+  activities:
+    en: [Hold group meetings and decide work together, Make products or offer a service, Keep group savings and accounts, Find markets and sell together]
+    ta: [குழுக் கூட்டங்கள் நடத்தி வேலைகளை ஒன்றாக முடிவு செய்வது, பொருட்கள் செய்வது அல்லது சேவை வழங்குவது, குழுவின் சேமிப்பையும் கணக்கையும் வைத்திருப்பது, சந்தையைக் கண்டுபிடித்து சேர்ந்து விற்பது]
+  skills:
+    en: [Teamwork and trust, Keeping honest accounts, Leading and listening in a group, A skill in a product or service]
+    ta: [குழுவாக வேலை செய்வதும் நம்பிக்கையும், நேர்மையாகக் கணக்கு வைப்பது, குழுவில் வழிநடத்தவும் கவனிக்கவும் தெரிவது, ஒரு பொருள் அல்லது சேவையில் திறன்]
+  entry:
+    typical_min_stage: null
+    notes:
+      en: Typically people join or form a group in their village, and no fixed qualification is needed. Group rules and support schemes vary by place. This is a typical route, not an official requirement.
+      ta: பொதுவாக தங்கள் கிராமத்தில் ஒரு குழுவில் சேர்கிறார்கள் அல்லது புதிதாக உருவாக்குகிறார்கள்; குறிப்பிட்ட படிப்பு தேவையில்லை. குழு விதிகளும் ஆதரவுத் திட்டங்களும் இடத்துக்கு இடம் மாறும். இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல.
+  routes:
+    - {kind: on_the_job, title: {en: Join an existing group in your area, ta: உங்கள் பகுதியில் உள்ள குழுவில் சேர்ந்து கற்றல்}, min_stage: null}
+    - {kind: short_course, title: {en: Skill or enterprise training for groups, ta: குழுக்களுக்கான திறன் அல்லது தொழில் பயிற்சி}, min_stage: null, opportunity: skill-india-digital-hub-portal}
+  related: [food-processing-entrepreneur, tailor-fashion-designer, handloom-weaver-craftsperson]
+  learning_resources: [skill-india-digital-hub-portal, tn-skill-development-portal]
+  keywords: [self help group, SHG, சுய உதவிக் குழு, மகளிர் குழு, micro business, small business, group business, சிறு தொழில், village business, women group]
+  source_refs: []
+
+# ---------------- technology ----------------
+- slug: computer-operator
+  family: technology
+  title: {en: Computer operator or data entry operator, ta: கணினி இயக்குநர் அல்லது தரவு பதிவாளர்}
+  description:
+    en: Uses computers to type, enter data, make documents and keep records for offices, shops and service centres. Helps people fill online forms and prints documents.
+    ta: அலுவலகம், கடை, சேவை மையங்களுக்காகக் கணினியில் தட்டச்சு செய்வது, தரவு பதிவிடுவது, ஆவணங்கள் தயாரிப்பது, பதிவுகளை வைப்பது ஆகியவற்றைச் செய்கிறார். மக்கள் ஆன்லைன் படிவம் நிரப்ப உதவி, ஆவணங்களை அச்சிடுகிறார்.
+  activities:
+    en: [Type documents and enter data, Use spreadsheets and basic office software, Help customers with online forms, Print and scan and save files safely]
+    ta: [ஆவணங்களைத் தட்டச்சு செய்து தரவு பதிவிடுவது, ஸ்பிரெட்ஷீட் மற்றும் அடிப்படை ஆபீஸ் மென்பொருள் பயன்படுத்துவது, வாடிக்கையாளர்களுக்கு ஆன்லைன் படிவங்களில் உதவுவது, கோப்புகளை அச்சிட்டு ஸ்கேன் செய்து பாதுகாப்பாகச் சேமிப்பது]
+  skills:
+    en: [Typing speed and accuracy, Basic computer and internet use, Care with details, Honesty with other people's information]
+    ta: [தட்டச்சு வேகமும் துல்லியமும், அடிப்படைக் கணினி மற்றும் இணையப் பயன்பாடு, சிறு விவரங்களில் கவனம், பிறரின் தகவல்களில் நேர்மை]
+  entry:
+    typical_min_stage: class_10
+    notes:
+      en: Typically people take a basic computer course after school, and the education needed varies by employer. This is a typical route, not an official requirement.
+      ta: பொதுவாக பள்ளிக்குப் பிறகு அடிப்படைக் கணினிப் படிப்பு படிக்கிறார்கள்; தேவையான படிப்பு நிறுவனத்தைப் பொறுத்து மாறும். இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல.
+  routes:
+    - {kind: short_course, title: {en: Basic computer course, ta: அடிப்படைக் கணினிப் படிப்பு}, min_stage: class_10, opportunity: skill-india-digital-hub-portal}
+    - {kind: iti, title: {en: ITI trade course in computer or office work, ta: கணினி அல்லது அலுவலகப் பணியில் ஐடிஐ தொழிற்பிரிவுப் படிப்பு}, min_stage: class_10}
+    - {kind: self_learning, title: {en: Practise typing and office software online, ta: இணையத்தில் தட்டச்சும் ஆபீஸ் மென்பொருளும் பயிற்சி செய்தல்}, min_stage: null}
+  related: [software-developer, government-clerk, mobile-phone-repair-technician]
+  learning_resources: [skill-india-digital-hub-portal, swayam-portal]
+  keywords: [computer, கணினி, data entry, typing, தட்டச்சு, MS Office, computer centre, browsing centre, DTP, ஆபீஸ் வேலை]
+  source_refs: []
+
+- slug: mobile-phone-repair-technician
+  family: technology
+  title: {en: Mobile phone repair technician, ta: மொபைல் போன் பழுதுநீக்கும் நுட்புநர்}
+  description:
+    en: Finds and fixes problems in mobile phones, such as broken screens, battery issues and software faults. Many run their own small repair shop.
+    ta: உடைந்த திரை, பேட்டரி பிரச்சினை, மென்பொருள் கோளாறு போன்ற மொபைல் போன் பிரச்சினைகளைக் கண்டுபிடித்துச் சரிசெய்கிறார். பலர் சொந்தமாகச் சிறிய பழுதுநீக்கும் கடை நடத்துகிறார்கள்.
+  activities:
+    en: [Check what is wrong with the phone, Replace screens and batteries and other parts, Fix software problems, Explain the problem to the customer]
+    ta: [போனில் என்ன பிரச்சினை என்று பார்ப்பது, திரை பேட்டரி போன்ற பாகங்களை மாற்றுவது, மென்பொருள் கோளாறுகளைச் சரிசெய்வது, பிரச்சினையை வாடிக்கையாளருக்கு விளக்குவது]
+  skills:
+    en: [Fine hand work and patience, Understanding phone parts and software, Careful problem solving, Keeping customer data private]
+    ta: [நுணுக்கமான கைவேலையும் பொறுமையும், போன் பாகங்கள் மற்றும் மென்பொருள் பற்றிய புரிதல், கவனமாகப் பிரச்சினையைத் தீர்க்கும் திறன், வாடிக்கையாளரின் தகவல்களை ரகசியமாக வைப்பது]
+  entry:
+    typical_min_stage: null
+    notes:
+      en: Typically people learn through a short repair course or by working with an experienced technician, and the education needed varies. This is a typical route, not an official requirement.
+      ta: பொதுவாக குறுகியகாலப் பழுதுநீக்கும் படிப்பு அல்லது அனுபவமுள்ள நுட்புநருடன் வேலை செய்து கற்கிறார்கள்; தேவையான படிப்பு மாறுபடும். இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல.
+  routes:
+    - {kind: short_course, title: {en: Mobile repair training course, ta: மொபைல் பழுதுநீக்கும் பயிற்சிப் படிப்பு}, min_stage: null, opportunity: skill-india-digital-hub-portal}
+    - {kind: on_the_job, title: {en: Learn as a helper in a repair shop, ta: பழுதுநீக்கும் கடையில் உதவியாளராகக் கற்றுக்கொள்ளுதல்}, min_stage: null}
+    - {kind: iti, title: {en: ITI trade course in electronics, ta: எலக்ட்ரானிக்ஸ் துறையில் ஐடிஐ தொழிற்பிரிவுப் படிப்பு}, min_stage: class_10}
+  related: [electrician, computer-operator, small-shop-owner]
+  learning_resources: [skill-india-digital-hub-portal, tn-skill-development-portal]
+  keywords: [mobile repair, phone repair, மொபைல் ரிப்பேர், போன் பழுது, screen change, electronics, எலக்ட்ரானிக்ஸ், mobile shop, technician, cell phone]
+  source_refs: []
+
+- slug: software-developer
+  family: technology
+  title: {en: Software developer, ta: மென்பொருள் உருவாக்குநர்}
+  description:
+    en: Writes computer programs and builds apps and websites that people and businesses use. Finds and fixes errors in the code and works with a team.
+    ta: மக்களும் நிறுவனங்களும் பயன்படுத்தும் கணினி நிரல்கள், ஆப்கள், இணையதளங்களை எழுதி உருவாக்குகிறார். நிரலில் உள்ள பிழைகளைக் கண்டுபிடித்துச் சரிசெய்து, குழுவுடன் இணைந்து வேலை செய்கிறார்.
+  activities:
+    en: [Write and test code, Find and fix errors, Work with a team on a project, Keep learning new tools and languages]
+    ta: [நிரல் எழுதிச் சோதிப்பது, பிழைகளைக் கண்டுபிடித்துச் சரிசெய்வது, ஒரு திட்டத்தில் குழுவுடன் வேலை செய்வது, புதிய கருவிகளையும் மொழிகளையும் தொடர்ந்து கற்பது]
+  skills:
+    en: [Logical thinking and problem solving, Maths and reading skill, Patience with errors, Willingness to keep learning]
+    ta: [தர்க்க ரீதியாகச் சிந்தித்துப் பிரச்சினையைத் தீர்க்கும் திறன், கணிதமும் படிக்கும் திறனும், பிழைகளில் பொறுமை, தொடர்ந்து கற்கும் மனம்]
+  entry:
+    typical_min_stage: undergraduate
+    notes:
+      en: Typically many developers have a degree or diploma in computers or a related field, while some learn through self-study and projects. This is a typical route, not an official requirement, and employers differ.
+      ta: பொதுவாக பல மென்பொருள் உருவாக்குநர்கள் கணினி அல்லது தொடர்புடைய துறையில் பட்டம் அல்லது டிப்ளமா பெற்றிருப்பார்கள்; சிலர் சுயமாகக் கற்று திட்டங்கள் செய்தும் வருகிறார்கள். இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல; நிறுவனங்கள் வேறுபடும்.
+  routes:
+    - {kind: degree, title: {en: Computer science or related degree, ta: கணினி அறிவியல் அல்லது தொடர்புடைய பட்டப்படிப்பு}, min_stage: class_12}
+    - {kind: diploma, title: {en: Computer or IT diploma, ta: கணினி அல்லது ஐடி டிப்ளமா}, min_stage: class_10}
+    - {kind: self_learning, title: {en: Learn programming online and build small projects, ta: இணையத்தில் புரோகிராமிங் கற்று சிறு திட்டங்கள் செய்தல்}, min_stage: null, opportunity: swayam-portal}
+  related: [computer-operator, mobile-phone-repair-technician, vocational-trainer]
+  learning_resources: [swayam-portal, skill-india-digital-hub-portal]
+  keywords: [software, programmer, coding, மென்பொருள், புரோகிராமிங், IT job, app development, website, computer science, engineer]
+  source_refs: []
+
+# ---------------- hospitality ----------------
+- slug: cook-chef
+  family: hospitality
+  title: {en: Cook or chef, ta: சமையல்காரர் அல்லது செஃப்}
+  description:
+    en: Prepares food in hotels, restaurants, canteens, catering teams or small food stalls. Plans the menu, cooks with care for taste and cleanliness, and works with a kitchen team.
+    ta: ஹோட்டல், உணவகம், கேன்டீன், கேட்டரிங் குழு, சிறு உணவுக் கடைகளில் உணவு தயாரிக்கிறார். மெனுவைத் திட்டமிட்டு, சுவையிலும் சுத்தத்திலும் கவனமாகச் சமைத்து, சமையலறைக் குழுவுடன் வேலை செய்கிறார்.
+  activities:
+    en: [Prepare and cook dishes, Plan quantities and buy ingredients, Keep the kitchen clean and safe, Work with the team during busy hours]
+    ta: [உணவு வகைகளைத் தயாரித்துச் சமைப்பது, அளவுகளைத் திட்டமிட்டு பொருட்கள் வாங்குவது, சமையலறையைச் சுத்தமாகவும் பாதுகாப்பாகவும் வைப்பது, நெருக்கடியான நேரங்களில் குழுவுடன் வேலை செய்வது]
+  skills:
+    en: [Cooking skill and good taste sense, Cleanliness and food safety, Working fast with a team, Planning and managing stock]
+    ta: [சமையல் திறனும் சுவை உணர்வும், சுத்தமும் உணவுப் பாதுகாப்பும், குழுவுடன் வேகமாக வேலை செய்வது, சரக்குகளைத் திட்டமிட்டு நிர்வகிப்பது]
+  entry:
+    typical_min_stage: null
+    notes:
+      en: Typically many cooks start as kitchen helpers and learn on the job, and there are also catering and hotel management courses. This is a typical route, not an official requirement.
+      ta: பொதுவாக பல சமையல்காரர்கள் சமையலறை உதவியாளராகத் தொடங்கி வேலை செய்தபடியே கற்கிறார்கள்; கேட்டரிங் மற்றும் ஹோட்டல் மேலாண்மைப் படிப்புகளும் உள்ளன. இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல.
+  routes:
+    - {kind: on_the_job, title: {en: Start as a kitchen helper and learn, ta: சமையலறை உதவியாளராகத் தொடங்கிக் கற்றல்}, min_stage: null}
+    - {kind: short_course, title: {en: Cooking or food production course, ta: சமையல் அல்லது உணவுத் தயாரிப்புப் படிப்பு}, min_stage: class_10, opportunity: skill-india-digital-hub-portal}
+    - {kind: diploma, title: {en: Hotel management or catering diploma or degree, ta: ஹோட்டல் மேலாண்மை அல்லது கேட்டரிங் டிப்ளமா அல்லது பட்டப்படிப்பு}, min_stage: class_12}
+  related: [hotel-restaurant-staff, food-processing-entrepreneur, tourist-guide]
+  learning_resources: [skill-india-digital-hub-portal, tn-skill-development-portal]
+  keywords: [cook, chef, சமையல், சமையல்காரர், catering, hotel kitchen, restaurant, மாஸ்டர், food, bakery]
+  source_refs: []
+
+- slug: hotel-restaurant-staff
+  family: hospitality
+  title: {en: Hotel or restaurant staff, ta: ஹோட்டல் அல்லது உணவகப் பணியாளர்}
+  description:
+    en: Welcomes and serves guests in hotels, lodges and restaurants. Works at the front desk, serves food, or keeps rooms and dining areas clean and ready.
+    ta: ஹோட்டல், லாட்ஜ், உணவகங்களில் விருந்தினர்களை வரவேற்றுச் சேவை செய்கிறார். வரவேற்பு மேசையில் வேலை செய்வது, உணவு பரிமாறுவது, அறைகளையும் உணவருந்தும் இடத்தையும் சுத்தமாகத் தயாராக வைப்பது போன்றவற்றைச் செய்கிறார்.
+  activities:
+    en: [Welcome guests and take their orders, Serve food and drinks, Keep rooms and tables clean and ready, Handle bills and answer guest questions]
+    ta: [விருந்தினர்களை வரவேற்று ஆர்டர் எடுப்பது, உணவும் பானமும் பரிமாறுவது, அறைகளையும் மேசைகளையும் சுத்தமாகத் தயாராக வைப்பது, பில் போடுவது மற்றும் விருந்தினர் கேள்விகளுக்குப் பதில் சொல்வது]
+  skills:
+    en: [Polite and friendly manners, Good communication, Neatness and cleanliness, Staying calm with many guests]
+    ta: [மரியாதையும் நட்புடனும் பழகுவது, நன்றாகப் பேசும் திறன், நேர்த்தியும் தூய்மையும், பல விருந்தினர்கள் இருக்கும்போதும் அமைதியாக இருப்பது]
+  entry:
+    typical_min_stage: class_10
+    notes:
+      en: Typically people start in a junior role and learn on the job, and hotel management courses also exist. The education needed varies by employer. This is a typical route, not an official requirement.
+      ta: பொதுவாக ஆரம்பநிலைப் பணியில் சேர்ந்து வேலை செய்தபடியே கற்கிறார்கள்; ஹோட்டல் மேலாண்மைப் படிப்புகளும் உள்ளன. தேவையான படிப்பு நிறுவனத்தைப் பொறுத்து மாறும். இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல.
+  routes:
+    - {kind: on_the_job, title: {en: Start in a junior role and learn, ta: ஆரம்பநிலைப் பணியில் சேர்ந்து கற்றல்}, min_stage: null}
+    - {kind: short_course, title: {en: Hospitality or front office short course, ta: விருந்தோம்பல் அல்லது வரவேற்புப் பணிக் குறுகியகாலப் படிப்பு}, min_stage: class_10, opportunity: skill-india-digital-hub-portal}
+    - {kind: diploma, title: {en: Hotel management diploma or degree, ta: ஹோட்டல் மேலாண்மை டிப்ளமா அல்லது பட்டப்படிப்பு}, min_stage: class_12}
+  related: [cook-chef, tourist-guide, small-shop-owner]
+  learning_resources: [skill-india-digital-hub-portal, tn-skill-development-portal]
+  keywords: [hotel job, ஹோட்டல் வேலை, restaurant, உணவகம், waiter, front desk, reception, housekeeping, lodge, hospitality]
+  source_refs: []
+
+- slug: tourist-guide
+  family: hospitality
+  title: {en: Tourist guide, ta: சுற்றுலா வழிகாட்டி}
+  description:
+    en: Takes visitors around places like temples, forts, nature spots and villages, and tells them about the place, its history and culture. Helps visitors have a safe and smooth trip.
+    ta: கோயில், கோட்டை, இயற்கை இடங்கள், கிராமங்கள் போன்ற இடங்களுக்கு வருகையாளர்களை அழைத்துச் சென்று, அந்த இடம், அதன் வரலாறு, பண்பாடு பற்றிச் சொல்கிறார். வருகையாளர்கள் பாதுகாப்பாகவும் சுமுகமாகவும் பயணம் செய்ய உதவுகிறார்.
+  activities:
+    en: [Plan the route and visit timings, Explain the history and stories of the place, Help visitors with directions and safety, Talk with visitors in their language]
+    ta: [பயணப் பாதையையும் நேரத்தையும் திட்டமிடுவது, அந்த இடத்தின் வரலாற்றையும் கதைகளையும் விளக்குவது, வழி மற்றும் பாதுகாப்பில் வருகையாளர்களுக்கு உதவுவது, வருகையாளர்களிடம் அவர்கள் மொழியில் பேசுவது]
+  skills:
+    en: [Knowledge of local places and history, Clear and friendly speaking, Knowing more than one language, Responsibility for a group]
+    ta: [உள்ளூர் இடங்கள் மற்றும் வரலாறு பற்றிய அறிவு, தெளிவாகவும் நட்புடனும் பேசும் திறன், ஒன்றுக்கு மேற்பட்ட மொழி தெரிவது, குழுவுக்கான பொறுப்பு]
+  entry:
+    typical_min_stage: null
+    notes:
+      en: Typically guides learn the local places well and many take a guide training or approval where required, which varies by place. This is a typical route, not an official requirement, so check locally.
+      ta: பொதுவாக வழிகாட்டிகள் உள்ளூர் இடங்களை நன்றாகக் கற்கிறார்கள்; தேவைப்படும் இடங்களில் வழிகாட்டிப் பயிற்சி அல்லது அனுமதி பெறுகிறார்கள், இது இடத்துக்கு இடம் மாறும். இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல; உள்ளூரில் விசாரியுங்கள்.
+  routes:
+    - {kind: self_learning, title: {en: Study local history and practise speaking with visitors, ta: உள்ளூர் வரலாற்றைப் படித்து வருகையாளர்களுடன் பேசிப் பழகுதல்}, min_stage: null}
+    - {kind: short_course, title: {en: Tourist guide or tourism training course, ta: சுற்றுலா வழிகாட்டி அல்லது சுற்றுலாப் பயிற்சிப் படிப்பு}, min_stage: class_10}
+    - {kind: degree, title: {en: Tourism or history related degree, ta: சுற்றுலா அல்லது வரலாறு தொடர்பான பட்டப்படிப்பு}, min_stage: class_12}
+  related: [hotel-restaurant-staff, cook-chef, commercial-driver]
+  learning_resources: [skill-india-digital-hub-portal, swayam-portal]
+  keywords: [tourism, சுற்றுலா, tour guide, வழிகாட்டி, travel, temple guide, heritage, visitors, spoken English, homestay]
+  source_refs: []
+
+# ---------------- transport_logistics ----------------
+- slug: commercial-driver
+  family: transport_logistics
+  title: {en: Commercial driver, ta: வணிக வாகன ஓட்டுநர்}
+  description:
+    en: Drives vehicles such as autos, vans, buses or trucks to carry people or goods. Follows traffic rules, keeps the vehicle in good condition and drives safely.
+    ta: ஆட்டோ, வேன், பஸ், லாரி போன்ற வாகனங்களை ஓட்டி ஆட்களையோ சரக்கையோ கொண்டு செல்கிறார். போக்குவரத்து விதிகளைப் பின்பற்றி, வாகனத்தை நல்ல நிலையில் வைத்து, பாதுகாப்பாக ஓட்டுகிறார்.
+  activities:
+    en: [Drive safely on planned routes, Check the vehicle before each trip, Load and unload with care, Keep trip and vehicle papers in order]
+    ta: [திட்டமிட்ட பாதைகளில் பாதுகாப்பாக ஓட்டுவது, ஒவ்வொரு பயணத்துக்கு முன்பும் வாகனத்தைச் சோதிப்பது, கவனமாக ஏற்றி இறக்குவது, பயண மற்றும் வாகன ஆவணங்களை ஒழுங்காக வைத்திருப்பது]
+  skills:
+    en: [Safe and alert driving, Knowing traffic rules, Basic vehicle checking, Patience on long journeys]
+    ta: [பாதுகாப்பாகவும் விழிப்புடனும் ஓட்டுவது, போக்குவரத்து விதிகள் தெரிந்திருப்பது, வாகனத்தை அடிப்படையாகச் சோதிக்கும் திறன், நீண்ட பயணங்களில் பொறுமை]
+  entry:
+    typical_min_stage: null
+    notes:
+      en: Typically a valid driving licence of the right type is needed, and the minimum age and education rules vary by vehicle type. This is a typical route, not an official requirement, so check the current transport rules.
+      ta: பொதுவாக சரியான வகை ஓட்டுநர் உரிமம் தேவை; குறைந்தபட்ச வயது, படிப்பு விதிகள் வாகன வகையைப் பொறுத்து மாறும். இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல; தற்போதைய போக்குவரத்து விதிகளைப் பாருங்கள்.
+  routes:
+    - {kind: short_course, title: {en: Driving school training and licence, ta: ஓட்டுநர் பள்ளிப் பயிற்சியும் உரிமமும்}, min_stage: null}
+    - {kind: on_the_job, title: {en: Start as a cleaner or helper and learn from drivers, ta: கிளீனர் அல்லது உதவியாளராகத் தொடங்கி ஓட்டுநர்களிடம் கற்றல்}, min_stage: null}
+  related: [driving-instructor, delivery-logistics-worker, automobile-mechanic]
+  learning_resources: [skill-india-digital-hub-portal]
+  keywords: [driver, ஓட்டுநர், driving, auto driver, ஆட்டோ, bus driver, lorry, லாரி, licence, டிரைவர்]
+  source_refs: []
+
+- slug: delivery-logistics-worker
+  family: transport_logistics
+  title: {en: Delivery and logistics worker, ta: டெலிவரி மற்றும் சரக்குப் பணியாளர்}
+  description:
+    en: Moves parcels and goods from shops, godowns and warehouses to customers. Sorts, packs, loads and delivers items on time and keeps track of them.
+    ta: கடைகள், கிடங்குகளிலிருந்து பார்சல்களையும் சரக்குகளையும் வாடிக்கையாளர்களிடம் கொண்டு சேர்க்கிறார். பொருட்களை வரிசைப்படுத்தி, பேக் செய்து, ஏற்றி, சொன்ன நேரத்தில் கொடுத்து, அவற்றின் விவரத்தைக் கண்காணிக்கிறார்.
+  activities:
+    en: [Sort and pack parcels, Load vehicles and plan delivery routes, Deliver items and confirm receipt, Use a phone app or register to track orders]
+    ta: [பார்சல்களை வரிசைப்படுத்திப் பேக் செய்வது, வாகனத்தில் ஏற்றி டெலிவரி பாதையைத் திட்டமிடுவது, பொருட்களைக் கொடுத்து பெற்றுக்கொண்டதை உறுதி செய்வது, ஃபோன் ஆப் அல்லது பதிவேட்டில் ஆர்டர்களைக் கண்காணிப்பது]
+  skills:
+    en: [Knowing local roads and areas, Being on time and reliable, Basic phone and app use, Careful handling of goods]
+    ta: [உள்ளூர்ச் சாலைகள் மற்றும் பகுதிகள் தெரிந்திருப்பது, நேரம் தவறாமையும் நம்பகத்தன்மையும், அடிப்படை ஃபோன் மற்றும் ஆப் பயன்பாடு, பொருட்களைக் கவனமாகக் கையாள்வது]
+  entry:
+    typical_min_stage: null
+    notes:
+      en: Typically people start in a delivery or warehouse role without a fixed qualification, and a driving licence may be needed for riding or driving. This is a typical route, not an official requirement, and it varies by employer.
+      ta: பொதுவாக குறிப்பிட்ட படிப்பு இல்லாமல் டெலிவரி அல்லது கிடங்குப் பணியில் தொடங்குகிறார்கள்; வண்டி ஓட்ட ஓட்டுநர் உரிமம் தேவைப்படலாம். இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல; நிறுவனத்தைப் பொறுத்து மாறும்.
+  routes:
+    - {kind: on_the_job, title: {en: Start in a delivery or warehouse role and learn, ta: டெலிவரி அல்லது கிடங்குப் பணியில் சேர்ந்து கற்றல்}, min_stage: null}
+    - {kind: short_course, title: {en: Logistics and warehouse skill course, ta: சரக்குப் போக்குவரத்து மற்றும் கிடங்குத் திறன் படிப்பு}, min_stage: class_10, opportunity: skill-india-digital-hub-portal}
+  related: [commercial-driver, small-shop-owner, driving-instructor]
+  learning_resources: [skill-india-digital-hub-portal, ncs-portal]
+  keywords: [delivery, டெலிவரி, courier, கூரியர், logistics, warehouse, கிடங்கு, parcel, packing, delivery boy]
+  source_refs: []
+
+- slug: driving-instructor
+  family: transport_logistics
+  title: {en: Driving instructor, ta: ஓட்டுநர் பயிற்றுநர்}
+  description:
+    en: Teaches people how to drive safely and follow traffic rules, usually at a driving school. Helps learners build confidence and get ready for the driving test.
+    ta: பொதுவாக ஓட்டுநர் பள்ளியில் மக்களுக்குப் பாதுகாப்பாக வாகனம் ஓட்டவும் போக்குவரத்து விதிகளைப் பின்பற்றவும் கற்றுக்கொடுக்கிறார். கற்பவர்களுக்குத் தன்னம்பிக்கை வளர்த்து ஓட்டுநர் தேர்வுக்குத் தயார்படுத்த உதவுகிறார்.
+  activities:
+    en: [Teach vehicle controls and road rules, Guide learners during practice drives, Explain safe driving habits, Prepare learners for the driving test]
+    ta: [வாகனக் கட்டுப்பாடுகளையும் சாலை விதிகளையும் கற்றுக்கொடுப்பது, பயிற்சி ஓட்டத்தில் கற்பவர்களுக்கு வழிகாட்டுவது, பாதுகாப்பான ஓட்டும் பழக்கங்களை விளக்குவது, கற்பவர்களை ஓட்டுநர் தேர்வுக்குத் தயார்படுத்துவது]
+  skills:
+    en: [Very safe and experienced driving, Patience with new learners, Clear explaining, Calm in tense moments]
+    ta: [மிகவும் பாதுகாப்பான அனுபவமுள்ள ஓட்டுதல், புதிதாகக் கற்பவர்களிடம் பொறுமை, தெளிவாக விளக்கும் திறன், பதற்றமான நேரத்தில் அமைதி]
+  entry:
+    typical_min_stage: null
+    notes:
+      en: Typically instructors first gain driving experience and a licence, and then may need extra approval or training, which varies by place. This is a typical route, not an official requirement, so check the current transport rules.
+      ta: பொதுவாக பயிற்றுநர்கள் முதலில் ஓட்டும் அனுபவமும் உரிமமும் பெறுகிறார்கள்; பிறகு கூடுதல் அனுமதி அல்லது பயிற்சி தேவைப்படலாம், இது இடத்துக்கு இடம் மாறும். இது ஒரு பொதுவான வழி, அதிகாரபூர்வத் தேவை அல்ல; தற்போதைய போக்குவரத்து விதிகளைப் பாருங்கள்.
+  routes:
+    - {kind: on_the_job, title: {en: Gain driving experience first, ta: முதலில் வாகனம் ஓட்டும் அனுபவம் பெறுதல்}, min_stage: null}
+    - {kind: short_course, title: {en: Driving instructor training where required, ta: தேவைப்படும் இடங்களில் ஓட்டுநர் பயிற்றுநர் பயிற்சி}, min_stage: null}
+  related: [commercial-driver, automobile-mechanic, vocational-trainer]
+  learning_resources: [skill-india-digital-hub-portal]
+  keywords: [driving school, ஓட்டுநர் பள்ளி, driving instructor, teach driving, learner licence, licence, டிரைவிங், road rules, car training, வண்டி ஓட்டக் கற்றுக்கொடுத்தல்]
+  source_refs: []

@@ -1,0 +1,10 @@
+.reco { border: 2px solid var(--border); border-radius: .5rem; padding: .75rem 1rem; overflow-wrap: anywhere; }
+.reco h3 { margin: 0 0 .35rem; font-size: 1.2rem; }
+.reco h4 { margin: .75rem 0 .25rem; font-size: 1rem; }
+.reco ul { margin: .25rem 0; padding-left: 1.2rem; }
+.reco--match { border-style: solid; border-color: var(--primary); }
+.reco--explore { border-style: dashed; }
+.reco__actions { display: grid; gap: .5rem; margin-top: .75rem; }
+.tag--strong { border-color: var(--ok); border-style: solid; border-width: 4px; }
+.tag--moderate { border-color: var(--ok); border-style: solid; }
+.tag--weak { border-color: var(--warn); border-style: dashed; }

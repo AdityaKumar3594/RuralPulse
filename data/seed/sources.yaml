@@ -1,0 +1,60 @@
+# Registry of trusted sources. `api_access: none_found` means no public API was found on
+# 2026-10-18, not that none exists. Do not scrape these sites; link to them.
+- id: diksha
+  name: {en: DIKSHA, ta: தீக்ஷா (DIKSHA)}
+  publisher: Government of India
+  base_url: https://diksha.gov.in
+  category: learning_platform
+  allowed_domains: [diksha.gov.in]
+  api_access: unknown
+  notes: Runs on the open-source Sunbird platform; API calls need a key. No anonymous content API found.
+
+- id: swayam
+  name: {en: SWAYAM, ta: ஸ்வயம் (SWAYAM)}
+  publisher: Government of India
+  base_url: https://swayam.gov.in
+  category: learning_platform
+  allowed_domains: [swayam.gov.in]
+  api_access: none_found
+
+- id: skill-india-digital-hub
+  name: {en: Skill India Digital Hub, ta: ஸ்கில் இந்தியா டிஜிட்டல் ஹப்}
+  publisher: Government of India
+  base_url: https://www.skillindiadigital.gov.in
+  category: skilling_portal
+  allowed_domains: [skillindiadigital.gov.in]
+  api_access: none_found
+
+- id: apprenticeship-india
+  name: {en: Apprenticeship India portal, ta: அப்ரென்டிஸ்ஷிப் இந்தியா இணையதளம்}
+  publisher: Government of India
+  base_url: https://www.apprenticeshipindia.gov.in
+  category: apprenticeship_portal
+  allowed_domains: [apprenticeshipindia.gov.in]
+  api_access: none_found
+
+- id: national-scholarship-portal
+  name: {en: National Scholarship Portal, ta: தேசிய உதவித்தொகை இணையதளம்}
+  publisher: Government of India
+  base_url: https://scholarships.gov.in
+  category: scholarship_portal
+  allowed_domains: [scholarships.gov.in]
+  api_access: none_found
+  notes: The only published API document is a push API for onboarded ministries, not for students.
+
+- id: ncs
+  name: {en: National Career Service, ta: தேசிய தொழில் சேவை}
+  publisher: Government of India
+  base_url: https://ncs.gov.in
+  category: employment_portal
+  allowed_domains: [ncs.gov.in]
+  api_access: none_found
+
+- id: tn-skill-development
+  name: {en: Tamil Nadu Skill Development Corporation, ta: தமிழ்நாடு திறன் மேம்பாட்டுக் கழகம்}
+  publisher: Government of Tamil Nadu
+  base_url: https://skilldevelopment.tn.gov.in
+  category: state_portal
+  allowed_domains: [skilldevelopment.tn.gov.in, naanmudhalvan.tn.gov.in]
+  api_access: unknown
+  notes: The older naanmudhalvan.tn.gov.in address redirects to skilldevelopment.tn.gov.in.

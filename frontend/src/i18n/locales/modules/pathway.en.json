@@ -1,0 +1,65 @@
+{
+  "pathway": {
+    "nav": "My pathways",
+    "listTitle": "My pathways",
+    "listIntro": "A pathway lists steps that people usually take towards a career. It is a guide, not an official rule.",
+    "empty": "You have no pathways yet. Look at your suggestions or the careers list and choose \"Build my pathway\".",
+    "toSuggestions": "See suggestions",
+    "toCareers": "Browse careers",
+    "progress": "Steps done: {{done}} of {{total}}",
+    "open": "Open this pathway",
+    "detailTitle": "Pathway: {{career}}",
+    "forStage": "Your class or course when this pathway was made: {{stage}}",
+    "version": "Pathway version: {{version}}",
+    "readCareer": "Read about this career",
+    "back": "Back to my pathways",
+    "stepsTitle": "Steps in order",
+    "stepNumber": "Step {{n}}",
+    "alternativesTitle": "Choose any one of these routes",
+    "alternativesHelp": "You do not need to do all of them. Pick the one that suits you.",
+    "type": {
+      "check_in": "Tell us about you",
+      "qualification": "Class or course",
+      "skill_building": "Build skills",
+      "learning_resource": "Learning resource",
+      "route": "Route",
+      "exam_preparation": "Exam preparation"
+    },
+    "level": {
+      "typical_route": "Usual route, not an official rule",
+      "suggested_preparation": "Helpful, not required"
+    },
+    "after": "After: {{steps}}",
+    "skillsList": "Skills: {{skills}}",
+    "updateProfile": "Update my details",
+    "resource": {
+      "title": "Resource",
+      "source": "Source: {{name}}",
+      "open": "Go to the official website (this leaves Ruralpulse)",
+      "details": "Read about this resource",
+      "check": "Check if I can apply"
+    },
+    "statusLabel": "Progress: {{title}}",
+    "status": {
+      "not_started": "Not started",
+      "in_progress": "In progress",
+      "done": "Done"
+    },
+    "waiting": "Finish the earlier steps first.",
+    "saved": "Saved: {{title}} is now \"{{status}}\".",
+    "unknownsTitle": "What we do not know",
+    "unknown": {
+      "effort_not_available": "We do not know how much effort each step needs.",
+      "cost_not_available": "We do not know what each step costs.",
+      "local_availability_unknown": "We do not know what is available near you.",
+      "requirements_are_typical_not_official": "These steps are what people usually do, not official rules."
+    },
+    "errors": {
+      "prerequisites_not_done": "You cannot change this step yet. Finish the steps before it first.",
+      "dependent_steps_started": "You cannot move this step back because a later step has already been started."
+    },
+    "build": "Build my pathway",
+    "building": "Building your pathway…",
+    "retry": "Try again"
+  }
+}

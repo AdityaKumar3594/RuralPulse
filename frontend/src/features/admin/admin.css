@@ -1,0 +1,21 @@
+.adm-nav { display: flex; flex-wrap: wrap; gap: .5rem; margin: 0 0 1rem; padding: 0; list-style: none; }
+.adm-nav a { display: inline-flex; align-items: center; min-height: 48px; padding: 0 .9rem; border: 2px solid var(--border); border-radius: .5rem; color: var(--fg); text-decoration: none; font-weight: 600; }
+.adm-nav a[aria-current='page'] { border-color: var(--primary); background: var(--primary); color: var(--primary-fg); }
+.adm-form select, .adm-form textarea, .adm-form input[type='text'], .adm-form input[type='url'], .adm-form input[type='tel'], .adm-form input[type='password'], .adm-form input:not([type]) { width: 100%; min-height: 48px; font: inherit; padding: .4rem .6rem; border: 2px solid var(--border); border-radius: .5rem; background: #fff; color: var(--fg); }
+.adm-form textarea { min-height: 96px; }
+.adm-form label { display: block; font-weight: 600; margin-bottom: .25rem; }
+.adm-list { list-style: none; padding: 0; margin: 0 0 1rem; display: grid; gap: .75rem; }
+.adm-card { border: 2px solid var(--border); border-radius: .5rem; padding: .75rem 1rem; overflow-wrap: anywhere; }
+.adm-card h2, .adm-card h3 { font-size: 1.1rem; margin: 0 0 .25rem; }
+.adm-card p { margin: .25rem 0; }
+.adm-actions { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: .5rem; }
+.adm-check { display: flex; align-items: center; gap: .75rem; min-height: 48px; font-weight: 400 !important; }
+.adm-check input { width: 28px; height: 28px; flex: none; }
+.adm-fieldset { border: 2px solid var(--border); border-radius: .5rem; padding: .75rem 1rem; margin: 0 0 1rem; }
+.adm-fieldset legend { font-weight: 700; padding: 0 .25rem; }
+.adm-ok { color: var(--ok); font-weight: 600; }
+.adm-dl { display: grid; gap: .5rem; margin: 0; }
+.adm-dl dt { font-weight: 700; }
+.adm-dl dd { margin: 0 0 .25rem; overflow-wrap: anywhere; }
+.adm-claims { border-left: 4px solid var(--warn); background: #fff3cd; padding: .5rem .75rem; border-radius: .25rem; margin: .75rem 0; }
+.adm-ev { border: 1px dashed var(--border); border-radius: .5rem; padding: .5rem .75rem; margin-bottom: .75rem; }

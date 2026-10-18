@@ -1,0 +1,30 @@
+/* Shared by the discover, recommend, pathway and eligibility screens. */
+.cards { list-style: none; margin: 0 0 1rem; padding: 0; display: grid; gap: .75rem; }
+.card { border: 2px solid var(--border); border-radius: .5rem; padding: .75rem 1rem; overflow-wrap: anywhere; }
+.card h2, .card h3 { margin: 0 0 .35rem; font-size: 1.15rem; }
+.card p { margin: .35rem 0; }
+.tags { display: flex; flex-wrap: wrap; gap: .35rem; margin: .35rem 0; }
+.tag { display: inline-block; font-size: .85rem; padding: .1rem .55rem; border-radius: 999px; border: 2px solid var(--border); background: #fff; color: var(--fg); }
+.tag--fresh, .tag--verified { border-color: var(--ok); border-style: solid; }
+.tag--stale { border-color: var(--warn); border-style: dashed; }
+.tag--expired { border-color: var(--err); border-style: double; border-width: 4px; }
+.tag--unverified, .tag--draft { border-color: var(--warn); border-style: dotted; border-width: 3px; }
+.tag--info { border-color: var(--primary); }
+.flags { margin: .35rem 0; padding-left: 1.2rem; color: var(--muted); font-size: .95rem; }
+.plain-list { list-style: none; margin: .35rem 0; padding: 0; display: grid; gap: .25rem; }
+.filters { display: grid; gap: .75rem; margin-bottom: 1rem; }
+.filters select, .filters input, .field select { width: 100%; min-height: 48px; font: inherit; padding: .4rem .6rem; border: 2px solid var(--border); border-radius: .5rem; background: #fff; color: var(--fg); }
+.section { margin: 1.25rem 0; }
+.section h2 { margin-bottom: .5rem; }
+.note { border-left: 4px solid var(--primary); background: #eef5ee; padding: .5rem .75rem; border-radius: .25rem; margin: .75rem 0; }
+.note--warn { border-left-color: var(--warn); background: #fff3cd; }
+.status-box { margin: 1rem 0; }
+.link-list { list-style: none; margin: 0; padding: 0; display: grid; gap: .5rem; }
+.link-list a { display: inline-flex; align-items: center; min-height: 48px; }
+.explain { margin: .75rem 0; }
+.explain__body { border: 2px solid var(--border); border-radius: .5rem; padding: .75rem 1rem; margin-top: .5rem; overflow-wrap: anywhere; }
+.explain__body h3 { font-size: 1.05rem; margin: .75rem 0 .25rem; }
+.explain__body ul { margin: .25rem 0; padding-left: 1.2rem; }
+.explain__headline { font-size: 1.15rem; font-weight: 700; margin: 0 0 .5rem; }
+.explain__label { font-size: .9rem; color: var(--muted); margin: .5rem 0 0; }
+.btn--small { min-height: 48px; }

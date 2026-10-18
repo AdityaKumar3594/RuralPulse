@@ -1,0 +1,150 @@
+{
+  "app": {
+    "name": "Ruralpulse"
+  },
+  "language": {
+    "title": "Choose your language",
+    "hint": "You can change this later"
+  },
+  "home": {
+    "welcome": "Welcome to Ruralpulse",
+    "tagline": "Learn. Grow. Earn.",
+    "changeLanguage": "Change language",
+    "hello": "Hello, {{name}}",
+    "login": "Log in",
+    "register": "Create account",
+    "interview": "Continue the interview",
+    "profile": "My profile"
+  },
+  "status": {
+    "title": "Server status",
+    "loading": "Connecting…",
+    "ok": "Connected. Everything is working.",
+    "degraded": "Server is running, but the database has a problem.",
+    "error": "Could not reach the server. Check your internet connection.",
+    "retry": "Try again",
+    "version": "Version {{version}}"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "back": "Go to start"
+  },
+  "common": {
+    "loading": "Loading…",
+    "save": "Save",
+    "cancel": "Cancel",
+    "retry": "Try again",
+    "logout": "Log out",
+    "skipToContent": "Skip to content"
+  },
+  "auth": {
+    "register": {
+      "title": "Create your account",
+      "name": "Your name",
+      "phone": "Mobile number",
+      "phoneHint": "10 digits",
+      "pin": "PIN",
+      "pinHint": "4 to 6 digits. Do not share it.",
+      "dob": "Date of birth",
+      "submit": "Create account",
+      "haveAccount": "Already have an account? Log in"
+    },
+    "login": {
+      "title": "Log in",
+      "submit": "Log in",
+      "noAccount": "New here? Create an account"
+    }
+  },
+  "consent": {
+    "title": "Your permission",
+    "intro": "To help you, we will ask about your studies, interests and skills.",
+    "point1": "We only ask what we need to suggest courses and opportunities.",
+    "point2": "You can skip any question or say you do not know.",
+    "point3": "You can see and change your answers at any time.",
+    "point4": "You can take back your permission later.",
+    "guardianIntro": "You are under 18, so a parent or guardian must give permission.",
+    "guardianName": "Parent or guardian's name",
+    "guardianPhone": "Parent or guardian's mobile number",
+    "selfAgree": "I agree to this",
+    "guardianAgree": "I am the parent or guardian and I agree",
+    "submit": "Continue",
+    "draft": "This is a draft notice for the prototype."
+  },
+  "interview": {
+    "title": "Let's get to know you",
+    "why": "Why we ask: {{why}}",
+    "progress": "{{answered}} of {{total}} questions",
+    "typeOwn": "Or type in your own words",
+    "send": "Send",
+    "dontKnow": "I don't know",
+    "skip": "Skip for now",
+    "listLabel": "Your answer",
+    "listHint": "For example: farming, drawing",
+    "numberLabel": "Your answer (a number)",
+    "textLabel": "Your answer",
+    "doneTitle": "Thank you!",
+    "doneBody": "Your answers are saved. You can see and change them at any time.",
+    "viewProfile": "See my profile"
+  },
+  "profile": {
+    "title": "My profile",
+    "intro": "This is what we know about you. You can change anything.",
+    "change": "Change",
+    "listHint": "Separate items with commas",
+    "notTold": "Not told yet",
+    "conflict": "What you told us and what a teacher saw are different.",
+    "provenance": {
+      "reported": "You told us",
+      "observed": "Seen by a teacher",
+      "hypothesis": "A suggestion, not confirmed",
+      "unknown": "You said you do not know"
+    },
+    "verification": {
+      "verified": "Checked",
+      "disputed": "Disputed"
+    },
+    "fields": {
+      "education_stage": "Class or course",
+      "subjects_studied": "Subjects you study",
+      "subject_preferences": "Subjects you like",
+      "interests": "Interests",
+      "skills": "Skills",
+      "goals": "Goals",
+      "weekly_learning_hours": "Hours per week for learning",
+      "device_type": "Device",
+      "connectivity": "Internet",
+      "state": "State",
+      "district": "District",
+      "annual_family_income_inr": "Family income per year (rupees)"
+    },
+    "withdraw": "Take back my permission",
+    "withdrawConfirm": "Take back permission? You will not be able to use your profile until you give permission again.",
+    "withdrawYes": "Yes, take it back"
+  },
+  "errors": {
+    "generic": "Something went wrong. Please try again.",
+    "network": "Could not reach the server. Check your internet connection and try again.",
+    "validation": {
+      "name": "Please enter your name.",
+      "phone": "Enter a 10-digit mobile number starting with 6, 7, 8 or 9.",
+      "pin": "Enter a PIN with 4 to 6 digits.",
+      "dob": "Please enter your date of birth.",
+      "guardianName": "Please enter the parent or guardian's name.",
+      "guardianPhone": "Enter the parent or guardian's 10-digit mobile number.",
+      "agree": "Please tick the box to continue.",
+      "answer": "Please enter an answer.",
+      "number": "Enter a whole number from {{min}} to {{max}}."
+    },
+    "detail": {
+      "phone_already_registered": "This mobile number already has an account. Please log in.",
+      "invalid_credentials": "Wrong mobile number or PIN.",
+      "account_locked": "Too many wrong attempts. Please try again in 15 minutes.",
+      "invalid_date_of_birth": "Please check the date of birth.",
+      "wrong_consent_giver": "This permission must be given by someone else.",
+      "invalid_value": "That answer is not valid.",
+      "invalid_answer": "That answer is not valid.",
+      "too_many_answers": "You have answered too many times in this session. Please come back later.",
+      "session_completed": "This interview is finished."
+    }
+  }
+}

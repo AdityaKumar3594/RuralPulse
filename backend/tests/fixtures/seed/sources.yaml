@@ -1,0 +1,7 @@
+- id: test-portal
+  name: {en: Test Portal, ta: சோதனை தளம்}
+  publisher: Test Government
+  base_url: https://portal.gov.in
+  category: scholarship_portal
+  allowed_domains: [portal.gov.in]
+  api_access: none_found
